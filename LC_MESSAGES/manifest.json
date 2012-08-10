@@ -1,0 +1,13 @@
+{
+    "id":           "es_ES",
+    "type":         "translation",
+    "name":         "Idioma Español",
+    "version":      "1.7.4",
+    "description":  "Traducción a Español del Área de Clientes y Área de Administración.",
+    "homepage_url": "http://github.com/Rhiss",
+    "author":       "Rhys",
+    "author_url":   "http://github.com/Rhiss",
+    "license":      "GPL version 2",
+    "minimum_boxbilling_version": "2.3.0",
+    "maximum_boxbilling_version": "2.7.2"
+}
