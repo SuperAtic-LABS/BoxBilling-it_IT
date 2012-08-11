@@ -17,10 +17,10 @@ msgstr ""
 "X-Poedit-SourceCharset: utf-8\n"
 
 msgid "Thread / Thread Starter"
-msgstr "Tema / Autor del Tema"
+msgstr "Autore"
 
 msgid "Last post"
-msgstr "Último mensaje"
+msgstr "Ultimo messaggio"
 
 msgid "Replies"
 msgstr "Risposte"
@@ -2020,9 +2020,8 @@ msgstr "Lingua"
 msgid "Code"
 msgstr "Codice"
 
-#, fuzzy
 msgid "BoxBilling in your language"
-msgstr "No se encuentra el pedido de licencia de BoxBilling"
+msgstr "BoxBilling nella tua lingia"
 
 msgid "Although BoxBilling displays in U.S. English by default, the software has the built-in capability to be used in any language. Follow instructions bellow to install new language."
 msgstr "Aunque BoxBilling se muestra en Inglés de EEUU da defecto, el software tiene la capacidad incorporada per ser utilizado en cualquier idioma. Sigue las instrucciones de abajo per installare el nuevo idioma."
@@ -2030,9 +2029,8 @@ msgstr "Aunque BoxBilling se muestra en Inglés de EEUU da defecto, el software 
 msgid "Check if your language translation file is available at"
 msgstr "Comprueba si el file de tu idioma está disponible en"
 
-#, fuzzy
 msgid "BoxBilling extensions site"
-msgstr "Imposible conectar con el sitio de extensiones de BoxBilling."
+msgstr "Impossibile connettersi al sito extension.BoxBilling.com"
 
 msgid "Download language files and place them to"
 msgstr "Descargar los files de idioma y ponerlos para"
@@ -2091,29 +2089,23 @@ msgstr "Notifiche"
 msgid "Inquiries"
 msgstr "Domande"
 
-#, fuzzy
 msgid "Clients"
-msgstr "Área de Clientes"
+msgstr "Client AREA"
 
-#, fuzzy
 msgid "Support ticket"
-msgstr "Tickets de Soporte"
+msgstr "Tickets supporto"
 
-#, fuzzy
 msgid "Staff member"
-msgstr "Miembro del Staff no encontrado"
+msgstr "Utente non trovato"
 
-#, fuzzy
 msgid "Announcement"
-msgstr "Anuncios"
+msgstr "Annunci"
 
-#, fuzzy
 msgid "Knowledge base article"
-msgstr "Categorías del Centro de Ayuda"
+msgstr "Categorie Supporto"
 
-#, fuzzy
 msgid "Forum topic"
-msgstr "Temas favoritos"
+msgstr "Argomenti favoriti"
 
 msgid "Parameter key is missing"
 msgstr "Manca el parámetro Clave"
@@ -2142,13 +2134,11 @@ msgstr "Publicación no encontrada"
 msgid "Post title not passed"
 msgstr "Título de la Publicación no facilitada"
 
-#, fuzzy
 msgid "Form title was not provided"
-msgstr "El file no se ha cargado"
+msgstr "File NON caricato"
 
-#, fuzzy
 msgid "Form id was not passed"
-msgstr "No se ha pasado el ID del foro"
+msgstr "ID Forum non valido"
 
 msgid "Form is not valid"
 msgstr "Email non valida"
@@ -2964,13 +2954,11 @@ msgstr "La contraseña debe tener más de 4 símbolos"
 msgid "GPS tracker order not found"
 msgstr "Server non trovato!"
 
-#, fuzzy
 msgid "Could not suspend order. Service was not created"
-msgstr "No se pudo activar el pedido. El servicio no fue creado"
+msgstr "Non si può attivare l'ordine. Ordine non creato correttamente!"
 
-#, fuzzy
 msgid "Could not unsuspend order. Service was not created"
-msgstr "No se pudo activar el pedido. El servicio no fue creado"
+msgstr "Non si può disattivare l'ordine. Ordine non creato correttamente!"
 
 msgid "TLD is missing"
 msgstr "Manca el TLD"
@@ -3039,9 +3027,8 @@ msgstr "Transferencia de dominio :domain"
 msgid "Notification center extension is off. Skipping check"
 msgstr "El centro de notificaciones de extensiones está desconectado. Omitir control"
 
-#, fuzzy
 msgid "Check was already executed once in a 2 days."
-msgstr "Comprobar que fue ejecutado una vez en unos 2 días."
+msgstr "Comprovare che sia stato eseguito negli ultimi 2 giorni"
 
 msgid "Only pending setup orders can be deleted."
 msgstr "Sólo pedidos pendientes de configurar pueden ser borrados."
