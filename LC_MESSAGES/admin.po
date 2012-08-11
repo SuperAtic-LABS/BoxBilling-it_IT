@@ -56,25 +56,25 @@ msgid "Browse"
 msgstr "Navigatore"
 
 msgid "Title"
-msgstr "Títolo"
+msgstr "Titolo"
 
 msgid "Slug"
 msgstr "Slug"
 
 msgid "Update"
-msgstr "Actualizar"
+msgstr "Aggiorna"
 
 msgid "Payment options"
-msgstr "Opciones de pago"
+msgstr "Opzioni pagamenti"
 
 msgid "Product / service description"
-msgstr "Producto / servicio descripción"
+msgstr "Descrisione"
 
 msgid "Choose which addons you would like to offer with"
-msgstr "Elije qué addons te gustaría ofrecer con"
+msgstr "Scegli l'Addon che vuoi offrire con "
 
 msgid "The list is empty"
-msgstr "La lista está vacía"
+msgstr "Nessun elemento trovato!"
 
 msgid "Choose which products can client upgrade to"
 msgstr "Elije a qué productos puede actualizarse el cliente"
@@ -959,13 +959,13 @@ msgid "Issue cPanel License"
 msgstr "Emisión de licencia de cPanel"
 
 msgid "Dedicated CPU"
-msgstr "CPU dedicada"
+msgstr "CPU dedicato"
 
 msgid "Dedicated RAM"
-msgstr "RAM dedicada"
+msgstr "RAM dedicata"
 
 msgid "Disk space"
-msgstr "Espacio en disco"
+msgstr "Spazio nel disco"
 
 msgid "Network transfer"
 msgstr "Transferimento di rete"
@@ -1567,9 +1567,8 @@ msgstr "server1.tudominiodeserver.com"
 msgid "Primary IP address of the server used to connect to it like: 123.123.123.123"
 msgstr "Dirección IP primaria del server utilizada per conectar con él, como: 123.123.123.123"
 
-#, fuzzy
 msgid "Assigned IP Addresses"
-msgstr "Asignación de direcciones IP"
+msgstr "Indirizzo IP assegnato"
 
 msgid "List the IP Addresses assigned to the server (One per line)"
 msgstr "Lista de direcciones IP asignadas al server (uno por línea)"
@@ -1619,13 +1618,11 @@ msgstr "Creare plan de alojamiento"
 msgid "Adding new server manager"
 msgstr "Añadiendo nuovo administrador de server"
 
-#, fuzzy
 msgid "Follow these instructions to install new hosting server manager."
-msgstr "Sigue estas instrucciones per instalar un nuovo administrador de server de alojamiento."
+msgstr "Seguire queste istruzioni per installare il nuovo server hosting manager."
 
-#, fuzzy
 msgid "Check for server manager extensions at"
-msgstr "Comprueba las extensiones per el administrador de server en"
+msgstr "Controlla estensioni del Server Manager"
 
 msgid "BoxBilling extensions site"
 msgstr "Sitio de extensiones de BoxBilling"
@@ -1633,13 +1630,11 @@ msgstr "Sitio de extensiones de BoxBilling"
 msgid "Download server manager extension file and place it to"
 msgstr "Descargar el file de la extensión de administrador de server y ponlo para"
 
-#, fuzzy
 msgid "Server manager gateway will be automatically detected."
-msgstr "La puerta de enlace de administración del server será detectada automaticamente."
+msgstr "Gateway Manager Server verrà rilevato automaticamente."
 
-#, fuzzy
 msgid "You can now create/edit servers with new server manager."
-msgstr "Ahora puedes Creare/editar serveres con un nuovo administrador de serveres."
+msgstr "È ora possibile creare / modificare i server con il gestore nuovo server."
 
 msgid "BoxBilling documentation"
 msgstr "Documentación de BoxBilling"
@@ -1713,13 +1708,11 @@ msgstr "Detalles del foro"
 msgid "GPS tracker settings"
 msgstr "Ajustes del localizador GPS"
 
-#, fuzzy
 msgid "API username"
-msgstr "API de nombre de usuario"
+msgstr "API Username"
 
-#, fuzzy
 msgid "API password"
-msgstr "API de contraseña"
+msgstr "API Password"
 
 msgid "Back to extensions"
 msgstr "Volver a extensiones"
@@ -1763,9 +1756,8 @@ msgstr "Utente de la Consola / Password"
 msgid "Client area"
 msgstr "Área Cliente"
 
-#, fuzzy
 msgid "Admin area"
-msgstr "Área de administración"
+msgstr "Control Panel"
 
 msgid "Change root password"
 msgstr "Cambiar contraseña de root"
@@ -1812,9 +1804,8 @@ msgstr "Tráfico"
 msgid "Load"
 msgstr "Carga"
 
-#, fuzzy
 msgid "Master node is offline, order is not yet activated or API is not configured properly."
-msgstr "El nodo maestro está fuera de línea, el pedido no está activado o la API no se ha configurado apropiadamente."
+msgstr "Master Node non è online, ordine non ancora attivato o API non configurato correttamente."
 
 msgid "Service management"
 msgstr "Administración de servicios"
@@ -1831,9 +1822,8 @@ msgstr "Ajustes de SpamChecker"
 msgid "Enable captcha for client registration and contact us forms"
 msgstr "Habilitar captcha per el registro de clientes y Form de contacto"
 
-#, fuzzy
 msgid "Sign up for Recaptcha key for your domain at"
-msgstr "Regístrate per la clave de Recaptcha de tu dominio en"
+msgstr "Iscriviti per avere un Recaptcha Key per il tuo dominio al"
 
 msgid "Recaptcha Enabled"
 msgstr "Recaptcha Activado"
@@ -2000,9 +1990,8 @@ msgstr "Añadir nuovo tema de área de cliente"
 msgid "Follow these instructions to install new client area theme."
 msgstr "Sigue estas instrucciones per instalar un nuovo tema de área de cliente."
 
-#, fuzzy
 msgid "Check for client area themes at"
-msgstr "Comprueba el tema de área de cliente en"
+msgstr "Verificare la presenza di temi di ammninistrazione in"
 
 msgid "Upload new theme files to"
 msgstr "Cargar nuovos files de tema a"
@@ -2037,9 +2026,8 @@ msgstr "nuovo producto"
 msgid "Priority"
 msgstr "Prioridad"
 
-#, fuzzy
 msgid "Update priority"
-msgstr "Actualización de prioridad"
+msgstr "Priorità aggiornamenti"
 
 msgid "Sent emails"
 msgstr "Emails inviate"
@@ -2254,9 +2242,8 @@ msgstr "Continuar"
 msgid "Domain action"
 msgstr "Acción de dominio"
 
-#, fuzzy
 msgid "Register domain"
-msgstr "Registro de dominio"
+msgstr "Registrare Dominio"
 
 msgid "Domain name to register"
 msgstr "Nombre de dominio per registrar"
@@ -2291,27 +2278,23 @@ msgstr "Validar Versión"
 msgid "Validate Path"
 msgstr "Validar Ruta"
 
-#, fuzzy
 msgid "License plugins"
-msgstr "Plugins de licencia"
+msgstr "Licenza Plugins"
 
 msgid "BoxBilling gives you ability to provide your own license generation script. Follow instructions bellow to install new license plugin"
 msgstr "BoxBilling te da la posibilidad de proveer tu propia licencia mediante un script que las genera. Sigue las instrucciones de abajo per instalar un nuovo plugin de licencias"
 
-#, fuzzy
 msgid "License plugin is PHP class \"License_PluginName\" with one method"
-msgstr "El plugin de licencia es una clase PHP \"License_PluginName\" con un método"
+msgstr "Licenza Plugin classe PHP \ \"License_PluginName \" con un metodo"
 
 msgid "Take a look at default plugin at"
 msgstr "Echa un vistazo al plugin por defecto en"
 
-#, fuzzy
 msgid "Create your plugin and place it to"
-msgstr "Crea tu plugin y ponlo para"
+msgstr "Crea il tuo plugin e mettilo su"
 
-#, fuzzy
 msgid "BoxBilling will automatically detect new plugin"
-msgstr "BoxBilling detectará automaticamente un nuovo plugin"
+msgstr "BoxBilling cercherà automaticamente un nuovo plugin"
 
 msgid "Read"
 msgstr "Leer"
