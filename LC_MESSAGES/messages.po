@@ -32,16 +32,16 @@ msgid "by"
 msgstr "da"
 
 msgid "The list is empty"
-msgstr "La lista está vacía"
+msgstr "Nessun elemento!"
 
 msgid "Forum list"
-msgstr "Lista de Foros"
+msgstr "Lista Discussioni"
 
 msgid "New topic"
-msgstr "Nuevo tema"
+msgstr "Nuovo tema"
 
 msgid "Register"
-msgstr "Registrarme"
+msgstr "Registrati"
 
 msgid "Start new topic in"
 msgstr "Comenzar nuevo tema en"
@@ -50,10 +50,10 @@ msgid "Start new topic"
 msgstr "Comenzar nuevo tema"
 
 msgid "Topic title"
-msgstr "Título del tema"
+msgstr "Titolo"
 
 msgid "Topic message"
-msgstr "Mensaje del tema"
+msgstr "Messaggio"
 
 msgid "Create new topic"
 msgstr "Apri un nuovo Argomento"
@@ -65,13 +65,13 @@ msgid "Sign In / Create new account"
 msgstr "Entra / Registrati"
 
 msgid "Become a member to participate in forum, contact support, order new services"
-msgstr "Conviértete en miembro per participar en el foro, contactar con soporte, pedir nuevos servicios"
+msgstr "Diventa un membro e partecipa alle discussioni, contattata il supporto tecnico o controllare l'ordine di nuovi servizi"
 
 msgid "Sign in"
 msgstr "Entra"
 
 msgid "Login to client area"
-msgstr "Área de Clientes"
+msgstr "Area Clienti"
 
 msgid "Email Address"
 msgstr "email"
