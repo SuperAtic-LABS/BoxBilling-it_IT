@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: BoxBilling-it_IT - Pannello di Controllo\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: gtrtyjh <oiujh@uhg.com>\n"
+"Last-Translator: K <go@superatic.com>\n"
 "Language-Team: SuperAtic LABS\n"
 "Language: Italian\n"
 "MIME-Version: 1.0\n"
@@ -32,7 +32,7 @@ msgid "Type"
 msgstr "Tipo"
 
 msgid "Category"
-msgstr "Categor√≠a"
+msgstr "Categoría"
 
 msgid "Custom order form"
 msgstr "Form di richiesta personalizzato"
@@ -77,13 +77,13 @@ msgid "The list is empty"
 msgstr "Nessun elemento trovato!"
 
 msgid "Choose which products can client upgrade to"
-msgstr "Elije a qu√© productos puede actualizarse el cliente"
+msgstr "Elije a qué productos puede actualizarse el cliente"
 
 msgid "Product Upgrades"
 msgstr "Actualizaciones de productos"
 
 msgid "No additional configuration for this product is required"
-msgstr "No se requiere configuraci√≥n adicional per este producto"
+msgstr "No se requiere configuración adicional per este producto"
 
 msgid "Product links"
 msgstr "Enlaces al producto"
@@ -92,10 +92,10 @@ msgid "Product ID"
 msgstr "ID del producto"
 
 msgid "Order page with ID"
-msgstr "P√°gina de pedido con ID"
+msgstr "Página de pedido con ID"
 
 msgid "Order page with slug"
-msgstr "P√°gina de pedido con slug"
+msgstr "Página de pedido con slug"
 
 msgid "Select icon and click OK"
 msgstr "Selecciona un icono y clic Ok"
@@ -104,7 +104,7 @@ msgid "Payment type"
 msgstr "Tipo de pago"
 
 msgid "Setup price"
-msgstr "Precio de configuraci√≥n"
+msgstr "Precio de configuración"
 
 msgid "Price"
 msgstr "Precio"
@@ -116,7 +116,7 @@ msgid "One time"
 msgstr "Una vez"
 
 msgid "Price for period"
-msgstr "Precio por per√≠odo"
+msgstr "Precio por período"
 
 msgid "First payment sum"
 msgstr "Suma del primer pago"
@@ -137,13 +137,13 @@ msgid "Every 6 months"
 msgstr "Cada 6 mesi"
 
 msgid "Every year"
-msgstr "Cada a√±o"
+msgstr "Cada año"
 
 msgid "Every 2 years"
-msgstr "Cada 2 a√±os"
+msgstr "Cada 2 años"
 
 msgid "Every 3 years"
-msgstr "Cada 3 a√±os"
+msgstr "Cada 3 años"
 
 msgid "Custom forms"
 msgstr "Forms personalizzati"
@@ -167,7 +167,7 @@ msgid "Radio"
 msgstr "Radio"
 
 msgid "Yes/No"
-msgstr "S√≠/No"
+msgstr "Sí/No"
 
 msgid "Textarea"
 msgstr "Textarea"
@@ -179,7 +179,7 @@ msgid "Required"
 msgstr "Requerido"
 
 msgid "Yes"
-msgstr "S√≠"
+msgstr "Sí"
 
 msgid "No"
 msgstr "No"
@@ -188,7 +188,7 @@ msgid "Save"
 msgstr "Guardar"
 
 msgid "Done editing"
-msgstr "Edici√≥n hecha"
+msgstr "Edición hecha"
 
 msgid "Hi,"
 msgstr "Ciao,"
@@ -275,10 +275,10 @@ msgid "Address and contact details"
 msgstr "Indirizzo"
 
 msgid "Address Line 1"
-msgstr "L√≠nea 1"
+msgstr "Línea 1"
 
 msgid "Address Line 2"
-msgstr "L√≠nea 2"
+msgstr "Línea 2"
 
 msgid "Country"
 msgstr "Paese"
@@ -287,7 +287,7 @@ msgid "State"
 msgstr "Provincia"
 
 msgid "City"
-msgstr "Citt√†"
+msgstr "Città"
 
 msgid "Postcode"
 msgstr "CAP"
@@ -320,7 +320,7 @@ msgid "Update profile"
 msgstr "Actualizar el perfil"
 
 msgid "Change password"
-msgstr "Cambiar contrase√±a"
+msgstr "Cambiar contraseña"
 
 msgid "Password changed"
 msgstr "Password cambiada"
@@ -329,7 +329,7 @@ msgid "Password"
 msgstr "Password"
 
 msgid "Password confirm"
-msgstr "Confirmar contrase√±a"
+msgstr "Confirmar contraseña"
 
 msgid "Custom fields"
 msgstr "Campos personalizzati"
@@ -350,7 +350,7 @@ msgid "Amount"
 msgstr "Total"
 
 msgid "Description"
-msgstr "Descripci√≥n"
+msgstr "Descripción"
 
 msgid "Date"
 msgstr "Data"
@@ -359,13 +359,13 @@ msgid "Balance"
 msgstr "Saldo"
 
 msgid "Add funds for client"
-msgstr "A√±adir fondos per el cliente"
+msgstr "Añadir fondos per el cliente"
 
 msgid "Funds added"
-msgstr "Fondos a√±adidos"
+msgstr "Fondos añadidos"
 
 msgid "Add funds"
-msgstr "A√±adir fondos"
+msgstr "Añadir fondos"
 
 msgid "Client orders"
 msgstr "Pedidos del cliente"
@@ -401,7 +401,7 @@ msgid "Icon"
 msgstr "Icona"
 
 msgid "Domains management"
-msgstr "Gesti√≥n de dominios"
+msgstr "Gestión de dominios"
 
 msgid "System settings"
 msgstr "Ajustes del sistema"
@@ -422,46 +422,46 @@ msgid "Company details"
 msgstr "Detalles de la empresa"
 
 msgid "Address"
-msgstr "Direcci√≥n"
+msgstr "Dirección"
 
 msgid "Logo URL"
 msgstr "URL del Logo"
 
 msgid "Company number, chamber of commerce number"
-msgstr "N√∫mero de empresa, c√°mara o n√∫mero de comercio"
+msgstr "Número de empresa, cámara o número de comercio"
 
 msgid "VAT number"
-msgstr "N√∫mero de IVA"
+msgstr "Número de IVA"
 
 msgid "Bank Account number"
-msgstr "N√∫mero de cuenta bancaria"
+msgstr "Número de cuenta bancaria"
 
 msgid "Signature"
 msgstr "Firma"
 
 msgid "Update settings"
-msgstr "Actualizar la configuraci√≥n"
+msgstr "Actualizar la configuración"
 
 msgid "Company terms of service, legal regulation"
-msgstr "T√©rminos del servicio de la empresa, regulaci√≥n legal"
+msgstr "Términos del servicio de la empresa, regulación legal"
 
 msgid "Company privacy policy"
-msgstr "Pol√≠ticas de privacidad de la empresa"
+msgstr "Políticas de privacidad de la empresa"
 
 msgid "Invoice settings"
 msgstr "Ajustes de factura"
 
 msgid "Number of days to generate new invoice before order expiration"
-msgstr "N√∫mero de d√≠as per generar nueva factura antes de que el pedido expire"
+msgstr "Número de días per generar nueva factura antes de que el pedido expire"
 
 msgid "Invoice due days"
-msgstr "D√≠as per vencimiento de la factura"
+msgstr "Días per vencimiento de la factura"
 
 msgid "Auto invoice approval"
-msgstr "Aprobaci√≥n autom√°tica de factura"
+msgstr "Aprobación automática de factura"
 
 msgid "Proforma Invoicing / Sequential Invoice Numbering"
-msgstr "Factura Proforma / Numeraci√≥n Secuencial de Factura"
+msgstr "Factura Proforma / Numeración Secuencial de Factura"
 
 msgid "Proforma invoice prefix/series"
 msgstr "Prefijo/Serie per Factura Proforma"
@@ -470,25 +470,25 @@ msgid "Paid invoice prefix/series"
 msgstr "Prefijo/Serie per facturas pagadas"
 
 msgid "Next paid invoice number"
-msgstr "Siguiente n√∫mero de factura pagada"
+msgstr "Siguiente número de factura pagada"
 
 msgid "Refunds settings"
 msgstr "Ajustes de reembolso"
 
 msgid "Refunds logic"
-msgstr "L√≥gica de reembolsos"
+msgstr "Lógica de reembolsos"
 
 msgid "Add funds settings"
-msgstr "Configuraci√≥n per a√±adir fondos"
+msgstr "Configuración per añadir fondos"
 
 msgid "Minimum amount for add funds invoice"
-msgstr "Importe m√≠nimo de la factura per a√±adir fondos"
+msgstr "Importe mínimo de la factura per añadir fondos"
 
 msgid "Unlimited"
 msgstr "Ilimitado"
 
 msgid "Maximum amount for add funds invoice"
-msgstr "Importe m√°ximo de la factura per a√±adir fondos"
+msgstr "Importe máximo de la factura per añadir fondos"
 
 msgid "FTP layer for BoxBilling"
 msgstr "Capa FTP per BoxBilling"
@@ -500,25 +500,25 @@ msgid "FTP settings updated"
 msgstr "Ajustes FTP actualizados"
 
 msgid "<strong>FTP Hostname</strong> - can be a numerical URL 127.0.0.1 is the default address for a locally hosted server, it might be this, it might be the full URL as my example above with the File Transfer Protocol (FTP) prefix, it might be the http:// protocol it might be SFTP (secure FTP) even secure http (https). Your host will be able to advise you on the correct format."
-msgstr "<strong>Nombre del host FTP</strong> - puede ser una URL num√©rica, 127.0.0.1 es la direcci√≥n por defecto per un server alojado en local, podr√≠a ser este, podr√≠a ser la URL completa como el ejemplo anterior con el File Transfer Protocol (FTP) como prefijo, podr√≠a ser el protocolo http://, podr√≠a ser SFTP (FTP seguro), incluso http seguro (https). Tu host podr√≠a aconsejarte sobre el formato correcto."
+msgstr "<strong>Nombre del host FTP</strong> - puede ser una URL numérica, 127.0.0.1 es la dirección por defecto per un server alojado en local, podría ser este, podría ser la URL completa como el ejemplo anterior con el File Transfer Protocol (FTP) como prefijo, podría ser el protocolo http://, podría ser SFTP (FTP seguro), incluso http seguro (https). Tu host podría aconsejarte sobre el formato correcto."
 
 msgid "<strong>FTP port</strong> - is nearly always 21 unless the host has changed this they will have notified you of this. Secure FTP generally uses port 22."
 msgstr "<strong>Puerto FTP</strong> - casi siempre es 21 a menos que el alojamiento lo haya cambiado sin advertirte de esto. FTP seguro generalmente usa el puerto 22."
 
 msgid "<strong>FTP user</strong> - In most cases, this is the specific user name your host has set up for you to access your Web site via FTP- It is the name you use in your FTP client. This could be an alphanumeric, it could be your name, even your e-mail address, If you don't know this speak to your host. You may have the facility on your Web account to set up additional FTP users if that is the case (and it's more secure) you are recommended to do this"
-msgstr "<strong>Utente FTP</strong> - En la mayor√≠a de los casos, este es el el usuario espec√≠fico que tu alojamiento ha creado per que puedas acceder a tu web mediante FTP - Es el nombre que utilizas en tu cliente FTP. Esto podr√≠a ser car√°cteres alfanum√©ricos, que podr√≠an ser tu nombre, incluso tu direcci√≥n de email, si no lo sabes, habla con tu proveedor de alojamiento. Podr√≠as tener la facilidad en tu cuenta Web per configurar usuarios adicionales de FTP, si es el caso (que ser√° lo m√°s seguro), se recomienda hacer esto."
+msgstr "<strong>Utente FTP</strong> - En la mayoría de los casos, este es el el usuario específico que tu alojamiento ha creado per que puedas acceder a tu web mediante FTP - Es el nombre que utilizas en tu cliente FTP. Esto podría ser carácteres alfanuméricos, que podrían ser tu nombre, incluso tu dirección de email, si no lo sabes, habla con tu proveedor de alojamiento. Podrías tener la facilidad en tu cuenta Web per configurar usuarios adicionales de FTP, si es el caso (que será lo más seguro), se recomienda hacer esto."
 
 msgid "<strong>FTP password</strong> - this is the password you enter in your FTP client."
-msgstr "<strong>Password FTP</strong> - esta es la contrase√±a que pones en tu cliente FTP."
+msgstr "<strong>Password FTP</strong> - esta es la contraseña que pones en tu cliente FTP."
 
 msgid "<strong>FTP root</strong> - This is generally the directory in which BoxBilling is installed. This setting is very important to be setup correctly as it very specifically depends on the Host server settings. In can be just / BUT it might be htdocs/boxbilling, public_html/, /public_html/boxbilling or other. It is a variable that BoxBilling has absolutely no control over. You will need to clarify this with your host."
-msgstr "<strong>FTP root</strong> - Este es generalmente el directorio en donde est√° instalado BoxBilling. Este ajuste es muy importante per que sea configurado correctamente ya que depende muy especificamente de la configuraci√≥n del server de alojamiento. Puede ser / PERO podr√≠a ser htdocs/boxbilling, public_html/, /public_html/boxbilling u otro. Es una variable sobre la que BoxBilling no tiene absolutamente ning√∫n control. Tendr√°s que aclarar esto con tu alojamiento."
+msgstr "<strong>FTP root</strong> - Este es generalmente el directorio en donde está instalado BoxBilling. Este ajuste es muy importante per que sea configurado correctamente ya que depende muy especificamente de la configuración del server de alojamiento. Puede ser / PERO podría ser htdocs/boxbilling, public_html/, /public_html/boxbilling u otro. Es una variable sobre la que BoxBilling no tiene absolutamente ningún control. Tendrás que aclarar esto con tu alojamiento."
 
 msgid "Setup scheduled tasks to be executed once a day"
-msgstr "Configuraci√≥n de las tareas programadas per ser ejecutadas una vez al d√≠a"
+msgstr "Configuración de las tareas programadas per ser ejecutadas una vez al día"
 
 msgid "Scheduled tasks must be enabled immediately after installation. Cron is responsible for sending your clients reminder about payments, domain renewal notices and many more."
-msgstr "Las tareas programadas deben estar habilitadas despu√©s de la instalaci√≥n. Cron es el responsable de inviare el recordatorio a los clientes acerca de los pagos, avisos de renovaci√≥n de dominio y mucho m√°s."
+msgstr "Las tareas programadas deben estar habilitadas después de la instalación. Cron es el responsable de inviare el recordatorio a los clientes acerca de los pagos, avisos de renovación de dominio y mucho más."
 
 msgid "Timezone"
 msgstr "Zona horaria"
@@ -527,13 +527,13 @@ msgid "Time on server"
 msgstr "Hora en el server"
 
 msgid "Last time scheduled tasks were executed"
-msgstr "√öltima vez que las tareas programadas fueron ejecutadas"
+msgstr "Última vez que las tareas programadas fueron ejecutadas"
 
 msgid "Scheduled tasks were never executed"
 msgstr "Tareas programadas que nunca se ejecutaron"
 
 msgid "Unix crontab setup:"
-msgstr "Configuraci√≥n de crontab de Unix:"
+msgstr "Configuración de crontab de Unix:"
 
 msgid "Execute scheduled tasks from browser"
 msgstr "Ejecutar las tareas programadas desde el navegador"
@@ -542,7 +542,7 @@ msgid "Execute now"
 msgstr "Ejecutar ahora"
 
 msgid "After purchase you have received an e-mail with license key. Update license key to unlock all features of BoxBilling"
-msgstr "Despu√©s de la compr√° habr√°s recibido un email con la clave de licencia. Actualiza la clave de licencia per desbloquear todas las caracter√≠sticas de BoxBilling."
+msgstr "Después de la comprá habrás recibido un email con la clave de licencia. Actualiza la clave de licencia per desbloquear todas las características de BoxBilling."
 
 msgid "To change license key, change <em>BB_LICENSE</em> value in <em>bb-config.php</em> file"
 msgstr "Para cambiar la clave de licencia, cambia el valor <em>BB_LICENSE</em> en el file <em>bb-config.php</em>"
@@ -575,7 +575,7 @@ msgid "Edit product addon"
 msgstr "Modifica addon producto"
 
 msgid "Canned category"
-msgstr "Categor√≠a di Default"
+msgstr "Categoría di Default"
 
 msgid "Domain details"
 msgstr "Dettagli dominio"
@@ -602,13 +602,13 @@ msgid "Transfer code"
 msgstr "Codice de transferencia"
 
 msgid "Privacy protected"
-msgstr "Protecci√≥n de privacidad"
+msgstr "Protección de privacidad"
 
 msgid "Locked"
 msgstr "Bloqueado"
 
 msgid "Registration/Renewal years"
-msgstr "A√±os de Registro/Renovaci√≥n"
+msgstr "Años de Registro/Renovación"
 
 msgid "Registration date"
 msgstr "Fecha de registro"
@@ -620,10 +620,10 @@ msgid "Lock"
 msgstr "Bloquear"
 
 msgid "Disable privacy protection"
-msgstr "Desactivar protecci√≥n de privacidad"
+msgstr "Desactivar protección de privacidad"
 
 msgid "Enable privacy protection"
-msgstr "Activar protecci√≥n de privacidad"
+msgstr "Activar protección de privacidad"
 
 msgid "Nameservers"
 msgstr "Nameservers"
@@ -641,10 +641,10 @@ msgid "Zip"
 msgstr "CP"
 
 msgid "Phone Country Code"
-msgstr "Codice telef√≥nico de pa√≠s"
+msgstr "Codice telefónico de país"
 
 msgid "Phone number"
-msgstr "N√∫mero de tel√©fono"
+msgstr "Número de teléfono"
 
 msgid "System activity"
 msgstr "Actividad del sistema"
@@ -656,7 +656,7 @@ msgid "Ip"
 msgstr "Ip"
 
 msgid "Are you sure?"
-msgstr "¬øEst√°s seguro?"
+msgstr "¿Estás seguro?"
 
 msgid "Template"
 msgstr "Plantilla"
@@ -677,7 +677,7 @@ msgid "Manage email template"
 msgstr "Gestionar plantillas de email"
 
 msgid "Most email templates receives parameters from BoxBilling. You can browse them on \"Variables\" tab. Copy variable name to email template and hit preview to see parsed content. Please note that values will be different when actual email is sent."
-msgstr "La mayor√≠a de las plantillas de correo electr√≥nico recibe los par√°metros de BoxBilling. Puedes navegar por la pesta√±a \"variables \". Copia el nombre de la variable en la plantilla de email y utiliza la vista previa per ver los resultados del contenido. Ten en cuenta que los n√∫meros ser√°n diferentes cuando se env√≠a un email real."
+msgstr "La mayoría de las plantillas de correo electrónico recibe los parámetros de BoxBilling. Puedes navegar por la pestaña \"variables \". Copia el nombre de la variable en la plantilla de email y utiliza la vista previa per ver los resultados del contenido. Ten en cuenta que los números serán diferentes cuando se envía un email real."
 
 msgid "Template updated"
 msgstr "Plantilla actualizada"
@@ -695,7 +695,7 @@ msgid "List of variables used in this email"
 msgstr "Lista de variables usadas en este email"
 
 msgid "These values will change when real email is sent. You can pass these variables to admin or guest API to get additional information from database."
-msgstr "Estos valores cambian cuando se env√≠a un email real. Puedes pasar estas variables con el API del administrador o de invitado per obtener informaci√≥n adicional de la base de datos."
+msgstr "Estos valores cambian cuando se envía un email real. Puedes pasar estas variables con el API del administrador o de invitado per obtener información adicional de la base de datos."
 
 msgid "Variable"
 msgstr "Variable"
@@ -704,7 +704,7 @@ msgid "Example value"
 msgstr "Ejemplo de valor"
 
 msgid "This template does not receive any parameters"
-msgstr "Esta plantilla no recibe ning√∫n par√°metro"
+msgstr "Esta plantilla no recibe ningún parámetro"
 
 msgid "Reset email template to default"
 msgstr "Restaurar plantilla de email a estado por defecto"
@@ -716,7 +716,7 @@ msgid "Email templates examples"
 msgstr "Ejemplos de plantillas de email"
 
 msgid "Email template playground. Use this tool to try rendering email templates."
-msgstr "Zona de juego de plantilla de email. Utiliza esta herramienta per probar la presentaci√≥n de las plantillas de email."
+msgstr "Zona de juego de plantilla de email. Utiliza esta herramienta per probar la presentación de las plantillas de email."
 
 msgid "Details"
 msgstr "Detalles"
@@ -791,7 +791,7 @@ msgid "Gateway"
 msgstr "Pasarela"
 
 msgid "GPS management"
-msgstr "Gesti√≥n GPS"
+msgstr "Gestión GPS"
 
 msgid "IMEI"
 msgstr "IMEI"
@@ -815,7 +815,7 @@ msgid "Refunded"
 msgstr "Reembolsado"
 
 msgid "Issue date"
-msgstr "Fecha de emisi√≥n"
+msgstr "Fecha de emisión"
 
 msgid "Unpaid invoices"
 msgstr "Facturas sin pagar"
@@ -845,13 +845,13 @@ msgid "Prepare"
 msgstr "Preparar"
 
 msgid "Payment gateway configuration"
-msgstr "Configuraci√≥n de la pasarela de pago"
+msgstr "Configuración de la pasarela de pago"
 
 msgid "Payment gateway title"
-msgstr "T√≠tulo de la pasarela de pago"
+msgstr "Título de la pasarela de pago"
 
 msgid "Select which currencies can accept this payment gateway (Select none to allow all currencies)"
-msgstr "Selecciona qu√© divisas puede aceptar esta pasarela de pago (no selecciones ninguna per permitir todas las divisas)"
+msgstr "Selecciona qué divisas puede aceptar esta pasarela de pago (no selecciones ninguna per permitir todas las divisas)"
 
 msgid "Allow one time payments"
 msgstr "Permettere pagamento unico"
@@ -878,7 +878,7 @@ msgid "Solved tickets"
 msgstr "Tickets solucionados"
 
 msgid "Public tickets"
-msgstr "Tickets p√∫blicos"
+msgstr "Tickets públicos"
 
 msgid "Subject"
 msgstr "Oggetto"
@@ -911,19 +911,19 @@ msgid "Time opened"
 msgstr "Tiempo abierto"
 
 msgid "Last updated"
-msgstr "√öltima actualizaci√≥n"
+msgstr "Última actualización"
 
 msgid "SolusVM configuration"
-msgstr "Configuraci√≥n SolusVM"
+msgstr "Configuración SolusVM"
 
 msgid "Virtualization type"
-msgstr "Tipo de virtualizaci√≥n"
+msgstr "Tipo de virtualización"
 
 msgid "Node"
 msgstr "Nodo"
 
 msgid "Make sure BoxBilling can connect to SolusVM master server and check if nodes are configured for selected virtualizator type. Refresh page if you have changed virtualization type to see new nodes."
-msgstr "Aseg√∫rate de que BoxBilling puede conectar con el server maestro de SolusVM y comprobar si los nodos est√°n configurados per el tipo de virtualizador seleccionado. Actualiza la p√°gina si has cambiado el tipo de virtualizaci√≥n per ver los nuovos nodos."
+msgstr "Asegúrate de que BoxBilling puede conectar con el server maestro de SolusVM y comprobar si los nodos están configurados per el tipo de virtualizador seleccionado. Actualiza la página si has cambiado el tipo de virtualización per ver los nuovos nodos."
 
 msgid "Plan"
 msgstr "Plan"
@@ -932,7 +932,7 @@ msgid "Make sure BoxBilling can connect to SolusVM master server and check if pl
 msgstr "Assicurarsi che  BoxBilling possa connettersi al server SolusVM e comprovare i piani a cui siete sottoscritti."
 
 msgid "Plan parameters"
-msgstr "Par√°metros del plan"
+msgstr "Parámetros del plan"
 
 msgid "IPs amount"
 msgstr "Total IPs"
@@ -956,7 +956,7 @@ msgid "HVMT"
 msgstr "HVMT"
 
 msgid "Issue cPanel License"
-msgstr "Emisi√≥n de licencia de cPanel"
+msgstr "Emisión de licencia de cPanel"
 
 msgid "Dedicated CPU"
 msgstr "CPU dedicato"
@@ -977,19 +977,19 @@ msgid "Info"
 msgstr "Info"
 
 msgid "BoxBilling version settings"
-msgstr "Ajustes de versi√≥n de BoxBilling"
+msgstr "Ajustes de versión de BoxBilling"
 
 msgid "Configuration updated"
-msgstr "Configuraci√≥n actualizada"
+msgstr "Configuración actualizada"
 
 msgid "Version"
-msgstr "Versi√≥n"
+msgstr "Versión"
 
 msgid "Size"
-msgstr "Tama√±o"
+msgstr "Tamaño"
 
 msgid "Release date"
-msgstr "Fecha de revisi√≥n"
+msgstr "Fecha de revisión"
 
 msgid "Staff members logins history"
 msgstr "Historial de accesos de los empleados"
@@ -998,31 +998,31 @@ msgid "Admin"
 msgstr "Admin"
 
 msgid "Currency management"
-msgstr "Gesti√≥n de divisas"
+msgstr "Gestión de divisas"
 
 msgid "Currencies"
 msgstr "Divisas"
 
 msgid "Add new currency"
-msgstr "A√±adir nueva divisa"
+msgstr "Añadir nueva divisa"
 
 msgid "Manage currencies"
 msgstr "Gestionar divisas"
 
 msgid "Default currency is the one you manage all your prices in admin area. If your client in client area chooses other than default currency, prices will be recalculated according to conversion rate. You can have only one default currency. You can not add same currency once again. Changing default currency is not recommended when active orders are available. Nothing is recalculated on default currency change. Your income is calculated in default currency. Changing default currency after you have paid invoices will distort income statistics. Currency rates are taken from Google."
-msgstr "La moneda por defecto es la que gestiona todos los precios en el √°rea de administraci√≥n. Si tu cliente en el √°rea de cliente elige una diferente a la moneda por defecto, los precios se volver√°n a calcular de acuerdo al tipo de cambio. Puedes tener una sola moneda por defecto. No se puede agregar la misma moneda una vez m√°s. El cambio de moneda por defecto no se recomienda cuando hay disponibles pedidos activos. No se vuelve a calcular nada sobre el cambio de moneda por defecto. Tus ingresos se calculan en la moneda por defecto. El cambio de moneda por defecto despu√©s de haber pagado las facturas distorsionan las estad√≠sticas de ingresos. Los tipos de cambio se han tomado de Google."
+msgstr "La moneda por defecto es la que gestiona todos los precios en el área de administración. Si tu cliente en el área de cliente elige una diferente a la moneda por defecto, los precios se volverán a calcular de acuerdo al tipo de cambio. Puedes tener una sola moneda por defecto. No se puede agregar la misma moneda una vez más. El cambio de moneda por defecto no se recomienda cuando hay disponibles pedidos activos. No se vuelve a calcular nada sobre el cambio de moneda por defecto. Tus ingresos se calculan en la moneda por defecto. El cambio de moneda por defecto después de haber pagado las facturas distorsionan las estadísticas de ingresos. Los tipos de cambio se han tomado de Google."
 
 msgid "ISO code"
 msgstr "Codice ISO"
 
 msgid "Conversion rate"
-msgstr "Ratio de conversi√≥n"
+msgstr "Ratio de conversión"
 
 msgid "Example price"
 msgstr "Ejemplo de precio"
 
 msgid "Update Rates"
-msgstr "Actualizaci√≥n de precios"
+msgstr "Actualización de precios"
 
 msgid "Code"
 msgstr "Codice"
@@ -1031,19 +1031,19 @@ msgid "Format"
 msgstr "Formato"
 
 msgid "Add"
-msgstr "A√±adir"
+msgstr "Añadir"
 
 msgid "Whmcs importer"
 msgstr "Importador Whmcs"
 
 msgid "API configuration"
-msgstr "Configuraci√≥n API"
+msgstr "Configuración API"
 
 msgid "Whmcs import wizard"
-msgstr "Asistente de importaci√≥n Whmcs"
+msgstr "Asistente de importación Whmcs"
 
 msgid "This guide will help you to import data from whmcs to BoxBilling."
-msgstr "Esta gu√≠a te ayudar√° a importare informaci√≥n de whmcs a BoxBilling."
+msgstr "Esta guía te ayudará a importare información de whmcs a BoxBilling."
 
 msgid "1. Create WHMCS database backup"
 msgstr "1. Creare un backup de la base de datos WHMCS"
@@ -1058,34 +1058,34 @@ msgid "Db name"
 msgstr "Nombre Base de Datos"
 
 msgid "Test connection"
-msgstr "Prueba de conexi√≥n"
+msgstr "Prueba de conexión"
 
 msgid "Connect to Whmcs database"
 msgstr "Conectar a la base de datos de Whmcs"
 
 msgid "Provide information to connect to whmcs database."
-msgstr "Proporcionar informaci√≥n per conectarse a la base de datos de whmcs"
+msgstr "Proporcionar información per conectarse a la base de datos de whmcs"
 
 msgid "Articles"
-msgstr "Art√≠culos"
+msgstr "Artículos"
 
 msgid "New article"
-msgstr "nuovo art√≠culo"
+msgstr "nuovo artículo"
 
 msgid "New category"
-msgstr "Nueva categor√≠a"
+msgstr "Nueva categoría"
 
 msgid "Manage categories"
-msgstr "Administrar categor√≠as"
+msgstr "Administrar categorías"
 
 msgid "Category created"
-msgstr "Categor√≠a creada"
+msgstr "Categoría creada"
 
 msgid "Getting started with SolusVM"
 msgstr "Primeros pasos con SolusVM"
 
 msgid "This guide will help you to get started selling SolusVM virtual servers with BoxBilling."
-msgstr "Esta gu√≠a te ayudar√° a empezar a vender serveres virtuales de SolusVM con BoxBilling."
+msgstr "Esta guía te ayudará a empezar a vender serveres virtuales de SolusVM con BoxBilling."
 
 msgid "1. Configure your SolusVm server"
 msgstr "1. Configura tu server SolusVM"
@@ -1094,13 +1094,13 @@ msgid "2. Configure API"
 msgstr "2. Configura la API"
 
 msgid "3. Create new product category"
-msgstr "3. Creare nueva categor√≠a de producto"
+msgstr "3. Creare nueva categoría de producto"
 
 msgid "4. Create SolusVM products"
 msgstr "4. Creare productos SolusVM"
 
 msgid "5. Import data from SolusVM server"
-msgstr "5. importare informaci√≥n del server SolusVM"
+msgstr "5. importare información del server SolusVM"
 
 msgid "Connect to SolusVM master server via API"
 msgstr "Conectar al server maestro de SolusVM mediante API"
@@ -1130,13 +1130,13 @@ msgid "New help desk"
 msgstr "nuovo dipartimento di sopporto"
 
 msgid "Close tickets after"
-msgstr "Chiudere tickets pi√π tardi"
+msgstr "Chiudere tickets più tardi"
 
 msgid "Close after"
 msgstr "Chiudere dopo"
 
 msgid "Can reopen"
-msgstr "Si pu√≤ riaprire"
+msgstr "Si può riaprire"
 
 msgid "Main website"
 msgstr "Sitio web principale"
@@ -1148,13 +1148,13 @@ msgid "Membership service does not have any configuration options"
 msgstr "Questi servizi non hanno nessuna configurazione"
 
 msgid "File information"
-msgstr "Informaci√≥n del file"
+msgstr "Información del file"
 
 msgid "Filename"
 msgstr "Nombre de file"
 
 msgid "Location"
-msgstr "Ubicaci√≥n"
+msgstr "Ubicación"
 
 msgid "Downloads"
 msgstr "Descargas"
@@ -1163,7 +1163,7 @@ msgid "Upload new file for this order"
 msgstr "Cargar nuovo file per este pedido"
 
 msgid "Use this function to update existing order file. Client will be able to download new file from client area"
-msgstr "Utiliza esta funci√≥n per actualizar el file de un pedido existente. El cliente podr√° descargar de nuovo el file desde el √°rea de cliente"
+msgstr "Utiliza esta función per actualizar el file de un pedido existente. El cliente podrá descargar de nuovo el file desde el área de cliente"
 
 msgid "Upload new file"
 msgstr "Cargar nuovo file"
@@ -1178,16 +1178,16 @@ msgid "Server manager"
 msgstr "Administrador de server"
 
 msgid "Access Hash (Instead of password for cPanel servers)"
-msgstr "Hash de acceso (en lugar de la contrase√±a per el server de cPanel)"
+msgstr "Hash de acceso (en lugar de la contraseña per el server de cPanel)"
 
 msgid "Connection port"
-msgstr "Puerto de conexi√≥n"
+msgstr "Puerto de conexión"
 
 msgid "Use Secure connection"
-msgstr "Usar conexi√≥n segura"
+msgstr "Usar conexión segura"
 
 msgid "Update and test connection"
-msgstr "Actualizar y probar la conexi√≥n"
+msgstr "Actualizar y probar la conexión"
 
 msgid "Update server"
 msgstr "Actualizar server"
@@ -1217,31 +1217,31 @@ msgid "Plugin"
 msgstr "Plugin"
 
 msgid "Last ping"
-msgstr "√öltimo ping"
+msgstr "Último ping"
 
 msgid "Validate IP"
 msgstr "Validar IP"
 
 msgid "Valid IPs (one per line)"
-msgstr "IPs v√°lidas (una por l√≠nea)"
+msgstr "IPs válidas (una por línea)"
 
 msgid "Validate host"
 msgstr "Validar host"
 
 msgid "Valid hosts (one per line)"
-msgstr "Hosts v√°lidos (uno porl√≠nea)"
+msgstr "Hosts válidos (uno porlínea)"
 
 msgid "Validate path"
 msgstr "Validar ruta"
 
 msgid "Valid paths (one per line)"
-msgstr "Rutas v√°lidas (una por l√≠nea)"
+msgstr "Rutas válidas (una por línea)"
 
 msgid "Validate version"
-msgstr "Validar versi√≥n"
+msgstr "Validar versión"
 
 msgid "Valid versions (one per line)"
-msgstr "Versiones v√°lidas (una por l√≠nea)"
+msgstr "Versiones válidas (una por línea)"
 
 msgid "Topics"
 msgstr "Temas"
@@ -1274,7 +1274,7 @@ msgid "Change your avatar at"
 msgstr "Cambia tu avatar en"
 
 msgid "Staff Group management"
-msgstr "Administraci√≥n del Grupo de personal"
+msgstr "Administración del Grupo de personal"
 
 msgid "Manage staff member details"
 msgstr "Administrar detalles del empleado"
@@ -1283,13 +1283,13 @@ msgid "API"
 msgstr "API"
 
 msgid "Change staff member password"
-msgstr "Cambiar contrase√±a del empleado"
+msgstr "Cambiar contraseña del empleado"
 
 msgid "Staff member password changed"
 msgstr "Password de personal cambiada"
 
 msgid "Repeat same password"
-msgstr "Repite la misma contrase√±a"
+msgstr "Repite la misma contraseña"
 
 msgid "Submit"
 msgstr "Enviar"
@@ -1304,7 +1304,7 @@ msgid "Generate new key"
 msgstr "Generar nueva clave"
 
 msgid "Edit currency information"
-msgstr "Editar informaci√≥n de la divisa"
+msgstr "Editar información de la divisa"
 
 msgid "Price format"
 msgstr "Formato del precio"
@@ -1319,16 +1319,16 @@ msgid "Update API key"
 msgstr "Actualizar clave API"
 
 msgid "2. Become partner"
-msgstr "2. Convi√©rtete en socio"
+msgstr "2. Conviértete en socio"
 
 msgid "3. Create license product"
 msgstr "3. Creare licencia del producto"
 
 msgid "Article updated"
-msgstr "Art√≠culo actualizado"
+msgstr "Artículo actualizado"
 
 msgid "Article details"
-msgstr "Detalles del art√≠culo"
+msgstr "Detalles del artículo"
 
 msgid "Payment gateways"
 msgstr "Pasarelas de pago"
@@ -1340,10 +1340,10 @@ msgid "Allow subscriptions"
 msgstr "Permitir suscripciones"
 
 msgid "Adding new payment gateway"
-msgstr "A√±adir nueva pasarelas de pago"
+msgstr "Añadir nueva pasarelas de pago"
 
 msgid "Although BoxBilling ships with most popular payment gateways, you can install other gateways."
-msgstr "Aunque BoxBilling trabaja con las pasarelas de pago m√°s populares, puedes instalar otras pasarelas."
+msgstr "Aunque BoxBilling trabaja con las pasarelas de pago más populares, puedes instalar otras pasarelas."
 
 msgid "Follow these instructions to install new payment gateway."
 msgstr "Sigue estas instrucciones per instalar una nueva pasarela de pago."
@@ -1352,19 +1352,19 @@ msgid "Check for payment gateway at"
 msgstr "Comprobar en la pasarela de pago"
 
 msgid "for more payment gateways"
-msgstr "para m√°s pasarelas de pago"
+msgstr "para más pasarelas de pago"
 
 msgid "Download payment gateway extension file and place it to"
-msgstr "Descarga el file de extensi√≥n de pasarela de pago y ponlo en "
+msgstr "Descarga el file de extensión de pasarela de pago y ponlo en "
 
 msgid "After file is uploaded in place, reload this page."
-msgstr "Despu√©s de que el file haya sido cargado en su sitio, recarga esta p√°gina."
+msgstr "Después de que el file haya sido cargado en su sitio, recarga esta página."
 
 msgid "Select uploaded file name and click on install."
 msgstr "Selecciona el nombre del file cargado y haz clic en instalar."
 
 msgid "Payment gateway will be installed in BoxBilling and can be configured in \"Payment gateways\" tab."
-msgstr "La pasarela de pago se instalar√° en BoxBilling y puede ser configurada en la pesta√±a \"Pasarelas de pago\"."
+msgstr "La pasarela de pago se instalará en BoxBilling y puede ser configurada en la pestaña \"Pasarelas de pago\"."
 
 msgid "For developers. Read"
 msgstr "Para desarrolladores. Leer"
@@ -1385,31 +1385,31 @@ msgid "Disabled"
 msgstr "Deshabilitado"
 
 msgid "After order is placed"
-msgstr "Despu√©s del pedido"
+msgstr "Después del pedido"
 
 msgid "After payment is received"
-msgstr "Despu√©s de recibir el pago"
+msgstr "Después de recibir el pago"
 
 msgid "Manual activation"
-msgstr "Activaci√≥n manual"
+msgstr "Activación manual"
 
 msgid "Tld management"
-msgstr "Administraci√≥n Tld"
+msgstr "Administración Tld"
 
 msgid "Top level domain management"
-msgstr "Administraci√≥n de dominio de nivel superior"
+msgstr "Administración de dominio de nivel superior"
 
 msgid "Registration price"
 msgstr "Precio de registro"
 
 msgid "Renewal price"
-msgstr "Precio de renovaci√≥n"
+msgstr "Precio de renovación"
 
 msgid "Transfer price"
 msgstr "Precio de transferencia"
 
 msgid "Minimum years of registration"
-msgstr "M√≠nimo de a√±os de registro"
+msgstr "Mínimo de años de registro"
 
 msgid "Allow registration"
 msgstr "Permitir el registro"
@@ -1418,7 +1418,7 @@ msgid "Allow transfer"
 msgstr "Permitir transferencia"
 
 msgid "Create new coupon code"
-msgstr "Creare nuovo codice de cup√≥n"
+msgstr "Creare nuovo codice de cupón"
 
 msgid "Discount type"
 msgstr "Tipo de descuento"
@@ -1427,7 +1427,7 @@ msgid "Recurring"
 msgstr "Recurrente"
 
 msgid "Free setup"
-msgstr "Configuraci√≥n gratis"
+msgstr "Configuración gratis"
 
 msgid "Promo code limitations"
 msgstr "Limitaciones del codice promocional"
@@ -1436,40 +1436,40 @@ msgid "Once per client"
 msgstr "Una vez por cliente"
 
 msgid "Max uses (zero for unlimited)"
-msgstr "M√°ximo de usos (cero per ilimitados)"
+msgstr "Máximo de usos (cero per ilimitados)"
 
 msgid "Used"
 msgstr "Usado"
 
 msgid "Period when code is valid"
-msgstr "Periodo cuando el codice es v√°lido"
+msgstr "Periodo cuando el codice es válido"
 
 msgid "Products"
 msgstr "Productos"
 
 msgid "Periods (Select none to apply to all periods)"
-msgstr "Per√≠odos (no selecciones ninguno per aplicar a todos los per√≠odos)"
+msgstr "Períodos (no selecciones ninguno per aplicar a todos los períodos)"
 
 msgid "Disk quota"
 msgstr "Cuota de disco"
 
 msgid "Max Addon domains"
-msgstr "M√°ximo de Addons de Dominios"
+msgstr "Máximo de Addons de Dominios"
 
 msgid "Max FTP accounts"
-msgstr "M√°ximo de cuentas FTP"
+msgstr "Máximo de cuentas FTP"
 
 msgid "Max SQL Databases"
-msgstr "M√°ximo de Bases de Datos SQL"
+msgstr "Máximo de Bases de Datos SQL"
 
 msgid "Max Email Accounts"
-msgstr "M√°ximo de Cuentas de Email"
+msgstr "Máximo de Cuentas de Email"
 
 msgid "Max Subdomains"
-msgstr "M√°ximo de Subdominios"
+msgstr "Máximo de Subdominios"
 
 msgid "Max Parked Domains"
-msgstr "M√°ximo de Dominios Aparcados"
+msgstr "Máximo de Dominios Aparcados"
 
 msgid "Server manager specific parameters"
 msgstr "Parametri specifici dle server"
@@ -1478,13 +1478,13 @@ msgid "Update hosting plan"
 msgstr "Actualizar el plan de alojamiento"
 
 msgid "Hosting plan additional parameters"
-msgstr "Par√°metros adicionales del plan de alojamiento"
+msgstr "Parámetros adicionales del plan de alojamiento"
 
 msgid "Depending on server manager used to setup hosting account you may require provide additional parameters. List of parameters server managers requires you can find on extensions page."
-msgstr "En funci√≥n del administrador de server que se utilice per configurar una cuenta de alojamiento puede que necesites proporcionar par√°metros adicionales. La lista de par√°metros de administradores de serveres que se requiere se pueden encontrar en la p√°gina de extensiones."
+msgstr "En función del administrador de server que se utilice per configurar una cuenta de alojamiento puede que necesites proporcionar parámetros adicionales. La lista de parámetros de administradores de serveres que se requiere se pueden encontrar en la página de extensiones."
 
 msgid "Add new configuration field"
-msgstr "A√±adir nuovo campo de configuraci√≥n"
+msgstr "Añadir nuovo campo de configuración"
 
 msgid "Hosting settings"
 msgstr "Ajustes del alojamiento"
@@ -1511,13 +1511,13 @@ msgid "Servers"
 msgstr "Servidores"
 
 msgid "Statistics"
-msgstr "Estad√≠sticas"
+msgstr "Estadísticas"
 
 msgid "Website statistic"
-msgstr "Estad√≠sticas del sitio"
+msgstr "Estadísticas del sitio"
 
 msgid "Metric"
-msgstr "M√©trica"
+msgstr "Métrica"
 
 msgid "This Month"
 msgstr "Este mes"
@@ -1529,10 +1529,10 @@ msgid "Income"
 msgstr "Ingresos"
 
 msgid "Define date interval for graphs "
-msgstr "Definir intervalo de fechas per el gr√°fico"
+msgstr "Definir intervalo de fechas per el gráfico"
 
 msgid "Update graphs"
-msgstr "Actualizar gr√°ficos"
+msgstr "Actualizar gráficos"
 
 msgid "Support tickets"
 msgstr "Tickets de soporte"
@@ -1559,19 +1559,19 @@ msgid "Addon domains"
 msgstr "Addon de dominios"
 
 msgid "Unique name to identify this server"
-msgstr "Nombre √∫nico per identificar este server"
+msgstr "Nombre único per identificar este server"
 
 msgid "server1.yourserverdomain.com"
 msgstr "server1.tudominiodeserver.com"
 
 msgid "Primary IP address of the server used to connect to it like: 123.123.123.123"
-msgstr "Direcci√≥n IP primaria del server utilizada per conectar con √©l, como: 123.123.123.123"
+msgstr "Dirección IP primaria del server utilizada per conectar con él, como: 123.123.123.123"
 
 msgid "Assigned IP Addresses"
 msgstr "Indirizzo IP assegnato"
 
 msgid "List the IP Addresses assigned to the server (One per line)"
-msgstr "Lista de direcciones IP asignadas al server (uno por l√≠nea)"
+msgstr "Lista de direcciones IP asignadas al server (uno por línea)"
 
 msgid "ns1.yourdomain.com"
 msgstr "ns1.tudominio.com"
@@ -1586,25 +1586,25 @@ msgid "ns4.yourdomain.com"
 msgstr "ns4.tudominio.com"
 
 msgid "Login username to your server: root/reseller"
-msgstr "Utente de identificaci√≥n en tu server root/revendedor"
+msgstr "Utente de identificación en tu server root/revendedor"
 
 msgid "Login password to your server"
-msgstr "Password de identificaci√≥n en tu server"
+msgstr "Password de identificación en tu server"
 
 msgid "Access Hash (Insted of password for cPanel servers)"
-msgstr "Hash de Acceso (en lugar de la contrase√±a de los serveres de cPanel)"
+msgstr "Hash de Acceso (en lugar de la contraseña de los serveres de cPanel)"
 
 msgid "Add server"
-msgstr "A√±adir server"
+msgstr "Añadir server"
 
 msgid "Adding new hosting plan"
-msgstr "A√±adiendo nuovo plan de alojamiento"
+msgstr "Añadiendo nuovo plan de alojamiento"
 
 msgid "Depending on server manager used to setup hosting account you may require provide additional parameters in next step. In this step provide basic hosting plan information."
-msgstr "En funci√≥n del administrador de server que se utilice per configurar la cuenta de alojamiento puede que necesites proporcionar par√°metros adicionales en el paso siguiente. En este paso, proporciona informaci√≥n b√°sica sobre el plan de alojamiento."
+msgstr "En función del administrador de server que se utilice per configurar la cuenta de alojamiento puede que necesites proporcionar parámetros adicionales en el paso siguiente. En este paso, proporciona información básica sobre el plan de alojamiento."
 
 msgid "Unique name to identify this hosting plan"
-msgstr "Nombre √∫nico per identificar este plan de alojamiento"
+msgstr "Nombre único per identificar este plan de alojamiento"
 
 msgid "Disk quota (MB)"
 msgstr "Cuota de disco (MB)"
@@ -1616,7 +1616,7 @@ msgid "Create hosting plan"
 msgstr "Creare plan de alojamiento"
 
 msgid "Adding new server manager"
-msgstr "A√±adiendo nuovo administrador de server"
+msgstr "Añadiendo nuovo administrador de server"
 
 msgid "Follow these instructions to install new hosting server manager."
 msgstr "Seguire queste istruzioni per installare il nuovo server hosting manager."
@@ -1628,16 +1628,16 @@ msgid "BoxBilling extensions site"
 msgstr "Sitio de extensiones de BoxBilling"
 
 msgid "Download server manager extension file and place it to"
-msgstr "Descargar el file de la extensi√≥n de administrador de server y ponlo para"
+msgstr "Descargar el file de la extensión de administrador de server y ponlo para"
 
 msgid "Server manager gateway will be automatically detected."
-msgstr "Gateway Manager Server verr√† rilevato automaticamente."
+msgstr "Gateway Manager Server verrà rilevato automaticamente."
 
 msgid "You can now create/edit servers with new server manager."
-msgstr "√à ora possibile creare / modificare i server con il gestore nuovo server."
+msgstr "È ora possibile creare / modificare i server con il gestore nuovo server."
 
 msgid "BoxBilling documentation"
-msgstr "Documentaci√≥n de BoxBilling"
+msgstr "Documentación de BoxBilling"
 
 msgid "to learn how to create your own server manager and share it with community"
 msgstr "para aprender como Creare tu propio administrador de server y compartirlo con la comunidad"
@@ -1655,7 +1655,7 @@ msgid "Partner"
 msgstr "Socio"
 
 msgid "Listed in public"
-msgstr "Listado en p√∫blico"
+msgstr "Listado en público"
 
 msgid "Partner status"
 msgstr "Estado del socio"
@@ -1670,10 +1670,10 @@ msgid "Website URL"
 msgstr "URL del sitio web"
 
 msgid "Promo"
-msgstr "Promoci√≥n"
+msgstr "Promoción"
 
 msgid "New promo"
-msgstr "Nueva promoci√≥n"
+msgstr "Nueva promoción"
 
 msgid "Discount"
 msgstr "Descuento"
@@ -1682,13 +1682,13 @@ msgid "Applies to"
 msgstr "Se aplica a"
 
 msgid "Valid period"
-msgstr "Per√≠odo de validez"
+msgstr "Período de validez"
 
 msgid "Usage"
 msgstr "Uso"
 
 msgid "Create special offers for your clients by creating coupon codes."
-msgstr "Crea ofertas especiales per tus clientes mediante la creaci√≥n de cupones descuento."
+msgstr "Crea ofertas especiales per tus clientes mediante la creación de cupones descuento."
 
 msgid "Absolute"
 msgstr "Absoluto"
@@ -1697,7 +1697,7 @@ msgid "Percentage"
 msgstr "Porcentaje"
 
 msgid "Valid time (Leave blank for undefined time)"
-msgstr "Tiempo v√°lido (deja en blanco per tiempo indefinido)"
+msgstr "Tiempo válido (deja en blanco per tiempo indefinido)"
 
 msgid "Products (Select none to apply to all products)"
 msgstr "Productos (no selecciones ninguno per aplicar a todos los productos)"
@@ -1739,31 +1739,31 @@ msgid "Operating System"
 msgstr "Sistema Operativo"
 
 msgid "IP address"
-msgstr "Direcci√≥n IP"
+msgstr "Dirección IP"
 
 msgid "Additional IP addresses"
-msgstr "Direcci√≥n IP adicional"
+msgstr "Dirección IP adicional"
 
 msgid "Root password"
 msgstr "Password de Root"
 
 msgid "Client area username / password"
-msgstr "Nombre de usuario del √Årea de Cliente / Password"
+msgstr "Nombre de usuario del Área de Cliente / Password"
 
 msgid "Console user / password"
 msgstr "Utente de la Consola / Password"
 
 msgid "Client area"
-msgstr "√Årea Cliente"
+msgstr "Área Cliente"
 
 msgid "Admin area"
 msgstr "Control Panel"
 
 msgid "Change root password"
-msgstr "Cambiar contrase√±a de root"
+msgstr "Cambiar contraseña de root"
 
 msgid "New password"
-msgstr "Nueva contrase√±a"
+msgstr "Nueva contraseña"
 
 msgid "Change"
 msgstr "Cambiar"
@@ -1787,7 +1787,7 @@ msgid "New template"
 msgstr "Nueva plantilla"
 
 msgid "Usage statistics"
-msgstr "Estad√≠sticas de uso"
+msgstr "Estadísticas de uso"
 
 msgid "Free"
 msgstr "Libre"
@@ -1799,22 +1799,22 @@ msgid "Disk usage"
 msgstr "Uso de disco"
 
 msgid "Traffic"
-msgstr "Tr√°fico"
+msgstr "Tráfico"
 
 msgid "Load"
 msgstr "Carga"
 
 msgid "Master node is offline, order is not yet activated or API is not configured properly."
-msgstr "Master Node non √® online, ordine non ancora attivato o API non configurato correttamente."
+msgstr "Master Node non è online, ordine non ancora attivato o API non configurato correttamente."
 
 msgid "Service management"
-msgstr "Administraci√≥n de servicios"
+msgstr "Administración de servicios"
 
 msgid "Changing settings does not send actions to SolusVM server."
-msgstr "El cambio de ajustes no env√≠a acciones al server SolusVM."
+msgstr "El cambio de ajustes no envía acciones al server SolusVM."
 
 msgid "Main IP address"
-msgstr "Direcci√≥n IP principal"
+msgstr "Dirección IP principal"
 
 msgid "SpamChecker settings"
 msgstr "Ajustes de SpamChecker"
@@ -1829,7 +1829,7 @@ msgid "Recaptcha Enabled"
 msgstr "Recaptcha Activado"
 
 msgid "ReCaptcha Public key"
-msgstr "Clave p√∫blica ReCaptcha"
+msgstr "Clave pública ReCaptcha"
 
 msgid "ReCaptcha Private key"
 msgstr "Clave privada Recaptcha"
@@ -1838,10 +1838,10 @@ msgid "StopForumSpam.com settings"
 msgstr "Ajustes de StopForumSpam.com"
 
 msgid "If enabled, client ip will be checked on <a href=\"http://www.stopforumspam.com/\" target=\"_blank\">http://www.stopforumspam.com</a> database before registration"
-msgstr "Si est√° activado, la IP del cliente ser√° comprobada en la base de datos de <a href=\"http://www.stopforumspam.com/\" target=\"_blank\">http://www.stopforumspam.com</a> antes del registro"
+msgstr "Si está activado, la IP del cliente será comprobada en la base de datos de <a href=\"http://www.stopforumspam.com/\" target=\"_blank\">http://www.stopforumspam.com</a> antes del registro"
 
 msgid "Enable check"
-msgstr "Verificaci√≥n Activada"
+msgstr "Verificación Activada"
 
 msgid "Canned responses"
 msgstr "Respuestas preconfiguradas"
@@ -1850,16 +1850,16 @@ msgid "New response"
 msgstr "Nueva respuesta"
 
 msgid "Categories"
-msgstr "Categor√≠as"
+msgstr "Categorías"
 
 msgid "Example extension settings"
-msgstr "Ejemplo de ajustes de extensi√≥n"
+msgstr "Ejemplo de ajustes de extensión"
 
 msgid "Every extension can have settings page. Only requirement is to have mod_example_settings.phtml page in html_admin folder"
-msgstr "Cada extensi√≥n puede tener una p√°gina de configuraci√≥n. El √∫nico requisito es tener la p√°gina mod_example_settings.phtml en la carpeta html_admin"
+msgstr "Cada extensión puede tener una página de configuración. El único requisito es tener la página mod_example_settings.phtml en la carpeta html_admin"
 
 msgid "Parameter title"
-msgstr "T√≠tulo del par√°metro"
+msgstr "Título del parámetro"
 
 msgid "Example custom value"
 msgstr "Ejemplo de valor personalizzato"
@@ -1886,7 +1886,7 @@ msgid "Plugin name"
 msgstr "Nombre del plugin"
 
 msgid "Update configuration fields"
-msgstr "Actualizar campos de configuraci√≥n"
+msgstr "Actualizar campos de configuración"
 
 msgid "Email templates"
 msgstr "Plantillas de email"
@@ -1895,13 +1895,13 @@ msgid "Email settings"
 msgstr "Ajustes de email"
 
 msgid "The list is empty. Depending on modules enabled email templates will be inserted after first event occurrence."
-msgstr "La lista est√° vac√≠a. Dependiendo de los modulos de plantillas de email habilitados se insertar√° despu√©s de la primera ocurrencia de evento."
+msgstr "La lista está vacía. Dependiendo de los modulos de plantillas de email habilitados se insertará después de la primera ocurrencia de evento."
 
 msgid "Configure email options"
 msgstr "Configurar las opciones de de email"
 
 msgid "BoxBilling sends emails using <em>sendmail</em> by default or you can configure your own SMTP server"
-msgstr "BoxBilling env√≠a emails usando <em>sendmail</em> por defecto, o puedes configurar tu propio server SMTP"
+msgstr "BoxBilling envía emails usando <em>sendmail</em> por defecto, o puedes configurar tu propio server SMTP"
 
 msgid "Email transport"
 msgstr "Transporte de email"
@@ -1928,22 +1928,22 @@ msgid "SMTP Security"
 msgstr "Seguridad SMTP"
 
 msgid "Update email settings"
-msgstr "Actualizaci√≥n de los ajustes de email"
+msgstr "Actualización de los ajustes de email"
 
 msgid "Send test email to staff members"
 msgstr "Enviar email de prueba a los empleados"
 
 msgid "Where I can use new email template?"
-msgstr "¬øD√≥nde puedo utilizar la nueva plantilla de email?"
+msgstr "¿Dónde puedo utilizar la nueva plantilla de email?"
 
 msgid "Newly created email templates can be used in custom event hooks."
-msgstr "La plantilla de email reci√©n creada se puede utilizar en los hooks de eventos personalizzati."
+msgstr "La plantilla de email recién creada se puede utilizar en los hooks de eventos personalizzati."
 
 msgid "Action code"
-msgstr "Codice de acci√≥n"
+msgstr "Codice de acción"
 
 msgid "Number"
-msgstr "N√∫mero"
+msgstr "Número"
 
 msgid "Due at"
 msgstr "Debido en"
@@ -1961,13 +1961,13 @@ msgid "Last name"
 msgstr "Apellidos"
 
 msgid "Invoice items"
-msgstr "Art√≠culos de la factura"
+msgstr "Artículos de la factura"
 
 msgid "Transaction Date"
-msgstr "Fecha de la transacci√≥n"
+msgstr "Fecha de la transacción"
 
 msgid "Transaction ID"
-msgstr "Transacci√≥n ID"
+msgstr "Transacción ID"
 
 msgid "Print"
 msgstr "Imprimir"
@@ -1976,19 +1976,19 @@ msgid "Delete"
 msgstr "Borrar"
 
 msgid "Client area themes"
-msgstr "Temas del √Årea de Cliente"
+msgstr "Temas del Área de Cliente"
 
 msgid "Admin area themes"
-msgstr "Temas del √°rea de administraci√≥n"
+msgstr "Temas del área de administración"
 
 msgid "New theme"
 msgstr "nuovo tema"
 
 msgid "Adding new client area theme"
-msgstr "A√±adir nuovo tema de √°rea de cliente"
+msgstr "Añadir nuovo tema de área de cliente"
 
 msgid "Follow these instructions to install new client area theme."
-msgstr "Sigue estas instrucciones per instalar un nuovo tema de √°rea de cliente."
+msgstr "Sigue estas instrucciones per instalar un nuovo tema de área de cliente."
 
 msgid "Check for client area themes at"
 msgstr "Verificare la presenza di temi di ammninistrazione in"
@@ -1997,22 +1997,22 @@ msgid "Upload new theme files to"
 msgstr "Cargar nuovos files de tema a"
 
 msgid "and reload this page"
-msgstr "y recargar esta p√°gina"
+msgstr "y recargar esta página"
 
 msgid "Client area theme will appear in &quot;Client area themes&quot; tab. And you can select it as default"
-msgstr "El tema de √Årea de Cliente aparecer√° en la pesta√±a &quot;Temas de √Årea de Cliente&quot; Y puedes seleccionarlo por defecto"
+msgstr "El tema de Área de Cliente aparecerá en la pestaña &quot;Temas de Área de Cliente&quot; Y puedes seleccionarlo por defecto"
 
 msgid "For theme designers. Read"
-msgstr "Para dise√±adores de temas. Leer"
+msgstr "Para diseñadores de temas. Leer"
 
 msgid "to learn how to create your own theme"
 msgstr "para aprener como Creare tu propio tema"
 
 msgid "Adding new admin area theme"
-msgstr "A√±adiendo nuovo tema de √°rea de administraci√≥n"
+msgstr "Añadiendo nuovo tema de área de administración"
 
 msgid "Admin area follows same logic as client area themes with one additional rule: admin theme directory must be prefixed with &quot;admin_&quot;."
-msgstr "El √°rea de Administraci√≥n sigue la misma l√≥gica que los temas de √°rea de clientes con una regla adicional: el directorio del tema de administraci√≥n debe tener el prefijo &quot;admin_&quot;."
+msgstr "El área de Administración sigue la misma lógica que los temas de área de clientes con una regla adicional: el directorio del tema de administración debe tener el prefijo &quot;admin_&quot;."
 
 msgid "Quantity"
 msgstr "Cantidad"
@@ -2027,7 +2027,7 @@ msgid "Priority"
 msgstr "Prioridad"
 
 msgid "Update priority"
-msgstr "Priorit√† aggiornamenti"
+msgstr "Priorità aggiornamenti"
 
 msgid "Sent emails"
 msgstr "Emails inviate"
@@ -2039,13 +2039,13 @@ msgid "Subscriptions"
 msgstr "Suscripciones"
 
 msgid "New subscription"
-msgstr "Nueva suscripci√≥n"
+msgstr "Nueva suscripción"
 
 msgid "Subscription ID on payment gateway"
-msgstr "ID de suscripci√≥n en la pasarela de pago"
+msgstr "ID de suscripción en la pasarela de pago"
 
 msgid "Period"
-msgstr "Per√≠odo"
+msgstr "Período"
 
 msgid "Domain name"
 msgstr "Nombre de dominio"
@@ -2057,10 +2057,10 @@ msgid "oAuth settings"
 msgstr "Ajustes oAuth"
 
 msgid "Google.com authorization settings"
-msgstr "Ajustes de autorizaci√≥n de Google.com"
+msgstr "Ajustes de autorización de Google.com"
 
 msgid "Enable Google login"
-msgstr "Activar identificaci√≥n mediante Google"
+msgstr "Activar identificación mediante Google"
 
 msgid "Google client ID"
 msgstr "ID de cliente de Google"
@@ -2069,16 +2069,16 @@ msgid "Google secret key"
 msgstr "Clave secreta de Google"
 
 msgid "Github.com authorization settings"
-msgstr "Ajustes de autorizaci√≥n de Github.com"
+msgstr "Ajustes de autorización de Github.com"
 
 msgid "Enable Github login"
-msgstr "Activar identificaci√≥n mediante Github"
+msgstr "Activar identificación mediante Github"
 
 msgid "Facebook.com authorization settings"
-msgstr "Ajustes de autorizaci√≥n de Facebook.com"
+msgstr "Ajustes de autorización de Facebook.com"
 
 msgid "Enable Facebook login"
-msgstr "Activar identificaci√≥n mediante Facebook"
+msgstr "Activar identificación mediante Facebook"
 
 msgid "File"
 msgstr "File"
@@ -2120,7 +2120,7 @@ msgid "Total responses"
 msgstr "Total respuestas"
 
 msgid "Add note"
-msgstr "A√±adir nota"
+msgstr "Añadir nota"
 
 msgid "Task status"
 msgstr "Estado de la tarea"
@@ -2135,7 +2135,7 @@ msgid "Edit"
 msgstr "Editar"
 
 msgid "Something went wrong here"
-msgstr "Algo sali√≥ mal"
+msgstr "Algo salió mal"
 
 msgid "Login"
 msgstr "Identificarse"
@@ -2144,25 +2144,25 @@ msgid "Back to Dashboard"
 msgstr "Volver al Panel"
 
 msgid "Transaction"
-msgstr "Transacci√≥n"
+msgstr "Transacción"
 
 msgid "IPN"
 msgstr "IPN"
 
 msgid "Transaction details"
-msgstr "Detalles de la transacci√≥n"
+msgstr "Detalles de la transacción"
 
 msgid "If you are sure that this transaction is valid you can update transaction details in &quot;Manage&quot; tab and try processing transaction again"
-msgstr "Si est√°s seguro que esta transacci√≥n es v√°lida puedes actualizar los detalles de la transacci√≥n en la pesta√±a &quot;Gestionar&quot; e intentar de nuovo el procesamiento de la transacci√≥n"
+msgstr "Si estás seguro que esta transacción es válida puedes actualizar los detalles de la transacción en la pestaña &quot;Gestionar&quot; e intentar de nuovo el procesamiento de la transacción"
 
 msgid "Payment gateway"
 msgstr "Pasarela de pago"
 
 msgid "Transaction ID on payment gateway"
-msgstr "ID de la transacci√≥n en la pasarela de pago"
+msgstr "ID de la transacción en la pasarela de pago"
 
 msgid "Transaction status on payment gateway"
-msgstr "Estado de la transacci√≥n en la pasarela de pago"
+msgstr "Estado de la transacción en la pasarela de pago"
 
 msgid "Note"
 msgstr "Nota"
@@ -2174,43 +2174,43 @@ msgid "Invoice ID"
 msgstr "Factura ID"
 
 msgid "Transaction processing information"
-msgstr "Informaci√≥n del procesamiento de la transacci√≥n"
+msgstr "Información del procesamiento de la transacción"
 
 msgid "Validate IPN"
 msgstr "Validar IPN"
 
 msgid "Transaction information on payment gateway"
-msgstr "Informaci√≥n de la transacci√≥n en la pasarela de pago"
+msgstr "Información de la transacción en la pasarela de pago"
 
 msgid "Transaction type"
-msgstr "Tipo de trasacci√≥n"
+msgstr "Tipo de trasacción"
 
 msgid "Transaction status on Payment Gateway"
-msgstr "Estado de la transacci√≥n en la Pasarela de Pago"
+msgstr "Estado de la transacción en la Pasarela de Pago"
 
 msgid "Transaction ID on Payment Gateway"
-msgstr "ID de la transacci√≥n en la Pasarela de Pago"
+msgstr "ID de la transacción en la Pasarela de Pago"
 
 msgid "Note about this transaction"
-msgstr "Notas sobre esta transacci√≥n"
+msgstr "Notas sobre esta transacción"
 
 msgid "GET"
 msgstr "GET"
 
 msgid "No GET parameters received"
-msgstr "No se han recibido par√°metros GET"
+msgstr "No se han recibido parámetros GET"
 
 msgid "POST"
 msgstr "POST"
 
 msgid "No POST parameters received"
-msgstr "No se han recibido par√°metros POST"
+msgstr "No se han recibido parámetros POST"
 
 msgid "SERVER"
 msgstr "SERVIDOR"
 
 msgid "No SERVER parameters logged"
-msgstr "No hay par√°metros del SERVIDOR conectado"
+msgstr "No hay parámetros del SERVIDOR conectado"
 
 msgid "My Products & Services"
 msgstr "Mis Productos & Servicios"
@@ -2222,13 +2222,13 @@ msgid "Product"
 msgstr "Producto"
 
 msgid "Invoice option"
-msgstr "Opci√≥n de factura"
+msgstr "Opción de factura"
 
 msgid "Creation date"
-msgstr "Fecha de creaci√≥n"
+msgstr "Fecha de creación"
 
 msgid "Pending setup"
-msgstr "Pendiente de configuraci√≥n"
+msgstr "Pendiente de configuración"
 
 msgid "Supended"
 msgstr "Suspendido"
@@ -2240,7 +2240,7 @@ msgid "Continue"
 msgstr "Continuar"
 
 msgid "Domain action"
-msgstr "Acci√≥n de dominio"
+msgstr "Acción de dominio"
 
 msgid "Register domain"
 msgstr "Registrare Dominio"
@@ -2249,7 +2249,7 @@ msgid "Domain name to register"
 msgstr "Nombre de dominio per registrar"
 
 msgid "Years"
-msgstr "A√±os"
+msgstr "Años"
 
 msgid "Transfer domain"
 msgstr "Transferencia de dominio"
@@ -2273,7 +2273,7 @@ msgid "Validate Hostname"
 msgstr "Validar nombre de Host"
 
 msgid "Validate Version"
-msgstr "Validar Versi√≥n"
+msgstr "Validar Versión"
 
 msgid "Validate Path"
 msgstr "Validar Ruta"
@@ -2294,13 +2294,13 @@ msgid "Create your plugin and place it to"
 msgstr "Crea il tuo plugin e mettilo su"
 
 msgid "BoxBilling will automatically detect new plugin"
-msgstr "BoxBilling cercher√† automaticamente un nuovo plugin"
+msgstr "BoxBilling cercherà automaticamente un nuovo plugin"
 
 msgid "Read"
 msgstr "Leer"
 
 msgid "for more information."
-msgstr "para m√°s informaci√≥n."
+msgstr "para más información."
 
 msgid "Filter support tickets"
 msgstr "Filtrar tickets de soporte"
@@ -2321,7 +2321,7 @@ msgid "New email"
 msgstr "nuovo email"
 
 msgid "Last message"
-msgstr "√öltimo mensaje"
+msgstr "Último mensaje"
 
 msgid "ago"
 msgstr "hace"
@@ -2330,7 +2330,7 @@ msgid "Open ticket for existing client"
 msgstr "Abrir ticket per un cliente existente"
 
 msgid "Open public ticket for non client"
-msgstr "Abrir ticket p√∫blico per los no clientes"
+msgstr "Abrir ticket público per los no clientes"
 
 msgid "Receivers name"
 msgstr "Nombre del receptor"
@@ -2363,7 +2363,7 @@ msgid "Manage TLDs"
 msgstr "Administrar TLDs"
 
 msgid "Setup domain pricing and allowed operations. Assign specific domain registrars for each Top Level Domain (TLD)"
-msgstr "Configuraci√≥n de los precios de dominio y operaciones permitidas. Asignar los registradores espec√≠ficos de dominio per cada Dominio de Nivel Superior (TLD)"
+msgstr "Configuración de los precios de dominio y operaciones permitidas. Asignar los registradores específicos de dominio per cada Dominio de Nivel Superior (TLD)"
 
 msgid "TLD"
 msgstr "TLD"
@@ -2390,7 +2390,7 @@ msgid "Active:"
 msgstr "Activo:"
 
 msgid "Add new top level domain"
-msgstr "A√±adir nuovo dominio de nivel superior"
+msgstr "Añadir nuovo dominio de nivel superior"
 
 msgid "Setup new TLD prices and properties"
 msgstr "Configurar nuovos precios TLD y propiedades"
@@ -2405,28 +2405,28 @@ msgid "Manage domain registrars"
 msgstr "Gestionar registradores de dominios"
 
 msgid "Setup default nameservers that will be used for new domain registrations if client have not provided his own nameservers in order form"
-msgstr "Configura los nombres de server por defecto que se usar√°n per los nuovos registros de dominio si el cliente no ha proporcionado los suyos propios en el Form de pedido"
+msgstr "Configura los nombres de server por defecto que se usarán per los nuovos registros de dominio si el cliente no ha proporcionado los suyos propios en el Form de pedido"
 
 msgid "Update nameservers"
 msgstr "Actualizar nombres de serveres"
 
 msgid "Adding new domain registrar"
-msgstr "A√±adiendo nuovo registrador de dominios"
+msgstr "Añadiendo nuovo registrador de dominios"
 
 msgid "Follow instrunctions bellow to install new domain registrar."
 msgstr "Sigue las instrucciones de abajo per instalar un nuovo registrador de dominio."
 
 msgid "Check domain registrar you are looking for is available at"
-msgstr "Comprueba que el registrador de dominio que est√°s buscando est√° disponible en"
+msgstr "Comprueba que el registrador de dominio que estás buscando está disponible en"
 
 msgid "Download domain registrar file and place to"
 msgstr "Descarga el file del registrador de dominio y ponlo en"
 
 msgid "Reload this page to see newly detected domain registrar"
-msgstr "Recarga esta p√°gina per ver el rereci√©n detectado registrador de dominio"
+msgstr "Recarga esta página per ver el rerecién detectado registrador de dominio"
 
 msgid "Click on install button. Now you will be able to create top level domains with new domain registrar"
-msgstr "Clic en el bot√≥n instalar. Ahora ser√°s capaz de Creare dominios de nivel superior con el nuovo registrador de dominios"
+msgstr "Clic en el botón instalar. Ahora serás capaz de Creare dominios de nivel superior con el nuovo registrador de dominios"
 
 msgid "to learn how to create your own domain registrar."
 msgstr "para aprender como Creare tu propio registrador de dominio."
@@ -2444,7 +2444,7 @@ msgid "Ping sitemap to Bing"
 msgstr "Ping sitemap a Bing"
 
 msgid "management"
-msgstr "administraci√≥n"
+msgstr "administración"
 
 msgid "Order"
 msgstr "Pedido"
@@ -2459,7 +2459,7 @@ msgid "Announcement"
 msgstr "Anuncio"
 
 msgid "Knowledge base article"
-msgstr "Art√≠culo de conocimientos"
+msgstr "Artículo de conocimientos"
 
 msgid "Forum topic"
 msgstr "Tema del foro"
@@ -2474,13 +2474,13 @@ msgid "Tax settings"
 msgstr "Ajustes de impuestos"
 
 msgid "State/Region"
-msgstr "Provincia/Regi√≥n"
+msgstr "Provincia/Región"
 
 msgid "Tax rate"
 msgstr "Tasa de impuesto"
 
 msgid "Applies to any country"
-msgstr "Se aplica a cualquier pa√≠s"
+msgstr "Se aplica a cualquier país"
 
 msgid "Applies to any state"
 msgstr "Se aplica a cualquier provincia"
@@ -2489,7 +2489,7 @@ msgid "Enable tax support"
 msgstr "Habilitar soporte de impuestos"
 
 msgid "Tax title"
-msgstr "T√≠tulo de impuesto"
+msgstr "Título de impuesto"
 
 msgid "sales Tax"
 msgstr "impuesto sobre la venta"
@@ -2498,7 +2498,7 @@ msgid "18"
 msgstr "18"
 
 msgid "Leave empty to apply to all states"
-msgstr "Dejar vac√≠o per aplicar a todas la provincias"
+msgstr "Dejar vacío per aplicar a todas la provincias"
 
 msgid "Yesterday"
 msgstr "Ayer"
@@ -2507,7 +2507,7 @@ msgid "This month so far"
 msgstr "Este mes, hasta el momento"
 
 msgid "Latest orders"
-msgstr "√öltimos pedidos"
+msgstr "Últimos pedidos"
 
 msgid "Product sales"
 msgstr "Ventas de productos"
@@ -2519,7 +2519,7 @@ msgid "No active orders available"
 msgstr "No hay pedidos activos disponibles"
 
 msgid "Define date interval for graphs"
-msgstr "Definir intervalo de fechas per el gr√°fico"
+msgstr "Definir intervalo de fechas per el gráfico"
 
 msgid "Recent clients activity"
 msgstr "Actividad reciente de clientes"
@@ -2540,7 +2540,7 @@ msgid "Place new order"
 msgstr "Hacer un nuovo pedido"
 
 msgid "Order management"
-msgstr "Gesti√≥n de pedidos"
+msgstr "Gestión de pedidos"
 
 msgid "Edit order"
 msgstr "Editar pedido"
@@ -2564,7 +2564,7 @@ msgid "Activated at"
 msgstr "Activado el"
 
 msgid "Renewal date"
-msgstr "Fecha de renovaci√≥n"
+msgstr "Fecha de renovación"
 
 msgid "Order notes"
 msgstr "Notas de pedido"
@@ -2573,25 +2573,25 @@ msgid "Order group ID"
 msgstr "ID del Grupo de Pedidos"
 
 msgid "Order promo code"
-msgstr "C√≥dice promozionale"
+msgstr "Códice promozionale"
 
 msgid "Active support tickets"
 msgstr "Tickets de soporte activos"
 
 msgid "Reason of suspendation"
-msgstr "Raz√≥n de la suspensi√≥n"
+msgstr "Razón de la suspensión"
 
 msgid "Suspendation reason"
 msgstr "Ragione della cancellazione"
 
 msgid "Reason of cancelation"
-msgstr "Raz√≥n de cancelaci√≥n"
+msgstr "Razón de cancelación"
 
 msgid "Cancelation reason"
-msgstr "Raz√≥n de la cancelaci√≥n"
+msgstr "Razón de la cancelación"
 
 msgid "Changes status without performing action"
-msgstr "Cambios de estados sin realizar acci√≥n"
+msgstr "Cambios de estados sin realizar acción"
 
 msgid "Addons you have ordered with this service"
 msgstr "Addons que has pedido con este servicio"
@@ -2612,7 +2612,7 @@ msgid "Support tickets regarding this order"
 msgstr "Tickets de soporte relacionados con este pedido"
 
 msgid "BoxBilling license management"
-msgstr "Administraci√≥n de licencias de BoxBilling"
+msgstr "Administración de licencias de BoxBilling"
 
 msgid "License order ID"
 msgstr "ID del pedido de licencia"
@@ -2621,16 +2621,16 @@ msgid "License key"
 msgstr "Clave de licencia"
 
 msgid "Valid IPs"
-msgstr "IPs v√°lidas"
+msgstr "IPs válidas"
 
 msgid "Valid hostnames"
-msgstr "Nombres de host v√°lidos"
+msgstr "Nombres de host válidos"
 
 msgid "Valid versions"
-msgstr "Versiones v√°lidas"
+msgstr "Versiones válidas"
 
 msgid "Valid install paths"
-msgstr "Rutas de instalaci√≥n v√°lidas"
+msgstr "Rutas de instalación válidas"
 
 msgid "Order is not activated or not found"
 msgstr "Pedido no activado o no encontrado"
@@ -2642,13 +2642,13 @@ msgid "Example module title"
 msgstr "Esempio di titolo per i moduli"
 
 msgid "This is an example extension content"
-msgstr "Este es un ejemplo de contenido de extensi√≥n"
+msgstr "Este es un ejemplo de contenido de extensión"
 
 msgid "Parameters from Controller"
-msgstr "Par√°metros del Controlador"
+msgstr "Parámetros del Controlador"
 
 msgid "Parameters from URL"
-msgstr "Par√°metros de la URL"
+msgstr "Parámetros de la URL"
 
 msgid "API example"
 msgstr "Ejemplo de API"
@@ -2657,16 +2657,16 @@ msgid "README"
 msgstr "LEEME"
 
 msgid "Subscription"
-msgstr "Suscripci√≥n"
+msgstr "Suscripción"
 
 msgid "Subscription details"
-msgstr "Detalles de suscripci√≥n"
+msgstr "Detalles de suscripción"
 
 msgid "Support help desk"
 msgstr "Departamento de soporte"
 
 msgid "Help desk name will be visible for clients when submitting new ticket. Define very large number of hours to disable auto close ticket option"
-msgstr "El nombre del Departamento de Soporte estar√° visible per los clientes al inviare un nuovo ticket. Define un n√∫mero muy largo de horas per desactivar la opci√≥n de auto cierre del ticket"
+msgstr "El nombre del Departamento de Soporte estará visible per los clientes al inviare un nuovo ticket. Define un número muy largo de horas per desactivar la opción de auto cierre del ticket"
 
 msgid "Server Name"
 msgstr "Nombre de Servidor"
@@ -2693,7 +2693,7 @@ msgid "Hosting plan changed"
 msgstr "Plan de alojamiento cambiado"
 
 msgid "Change account password"
-msgstr "Cambiar contrase√±a de la cuenta"
+msgstr "Cambiar contraseña de la cuenta"
 
 msgid "Account password changed"
 msgstr "Password de la cuenta cambiada"
@@ -2720,7 +2720,7 @@ msgid "Account domain changed"
 msgstr "Dominio de la cuenta cambiado"
 
 msgid "Client area languages"
-msgstr "Idiomas del √°rea de cliente"
+msgstr "Idiomas del área de cliente"
 
 msgid "New language"
 msgstr "nuovo Idioma"
@@ -2732,22 +2732,22 @@ msgid "BoxBilling in your language"
 msgstr "BoxBilling en tu idioma"
 
 msgid "Although BoxBilling displays in U.S. English by default, the software has the built-in capability to be used in any language. Follow instructions bellow to install new language."
-msgstr "Aunque BoxBilling se muestra en Ingl√©s de EEUU por defecto, el software tiene la capacidad incorporada per ser utilizado en cualquier idioma. Sigue las instrucciones de abajo per instalar el nuovo idioma."
+msgstr "Aunque BoxBilling se muestra en Inglés de EEUU por defecto, el software tiene la capacidad incorporada per ser utilizado en cualquier idioma. Sigue las instrucciones de abajo per instalar el nuovo idioma."
 
 msgid "Check if your language translation file is available at"
-msgstr "Comprueba si el file de traducci√≥n a tu idioma est√° disponible en"
+msgstr "Comprueba si el file de traducción a tu idioma está disponible en"
 
 msgid "Download language files and place them to"
 msgstr "Descarga los files de idioma y ponlos en"
 
 msgid "Language will be automatically available and can be changed in client area"
-msgstr "Los idiomas estar√°n automaticamente disponibles y pueden ser cambiados en el √°rea de clientes"
+msgstr "Los idiomas estarán automaticamente disponibles y pueden ser cambiados en el área de clientes"
 
 msgid "Installing BoxBilling in Your Language"
 msgstr "Instalando BoxBilling en tu idioma"
 
 msgid "to learn how to install files that will transform BoxBilling so it displays in your language."
-msgstr "para aprender como instalar files que transformar√°n a BoxBilling per que se muestre en tu idioma."
+msgstr "para aprender como instalar files que transformarán a BoxBilling per que se muestre en tu idioma."
 
 msgid "Translations can be made with"
 msgstr "Las traducciones pueden hacerse con"
@@ -2765,7 +2765,7 @@ msgid "Removing language"
 msgstr "Eliminando un idioma"
 
 msgid "Removing languages from BoxBilling is really simple. Just delete language folder you wish from"
-msgstr "La eliminaci√≥n de los idiomas de BoxBilling es realmente simple. S√≥lo borra la carpeta del idioma que desees de"
+msgstr "La eliminación de los idiomas de BoxBilling es realmente simple. Sólo borra la carpeta del idioma que desees de"
 
 msgid "Partners list"
 msgstr "Lista de socios"
@@ -2777,16 +2777,16 @@ msgid "Signup Date"
 msgstr "Fecha de registro"
 
 msgid "Global partners limits and settings"
-msgstr "Ajustes de l√≠mites globales per socios"
+msgstr "Ajustes de límites globales per socios"
 
 msgid "Default product which partners are reselling."
-msgstr "Productos por defecto que los socios est√°n revendiendo."
+msgstr "Productos por defecto que los socios están revendiendo."
 
 msgid "Invoice due days. How many days you allow partner to pay for invoice"
-msgstr "D√≠as debido per la factura. Cuantos d√≠as se le permitir√° al socio per pagar la factura"
+msgstr "Días debido per la factura. Cuantos días se le permitirá al socio per pagar la factura"
 
 msgid "Default order limit for partner per day. Used to prevent API abuse"
-msgstr "L√≠mite de pedido por socio y por d√≠a. Usado per prevenir abuso de la API"
+msgstr "Límite de pedido por socio y por día. Usado per prevenir abuso de la API"
 
 msgid "Check partners balance before creating new order for available amount"
 msgstr "Comprueba el balance de los socios antes de Creare un nuovo pedido per el total disponible"
@@ -2801,10 +2801,10 @@ msgid "How much money must be on clients balance to become a partner"
 msgstr "Cuanto dinero debe haber en el saldo del cliente per covertirse en socio"
 
 msgid "Registrar configuration"
-msgstr "Registro de configuraci√≥n"
+msgstr "Registro de configuración"
 
 msgid "Registrar title"
-msgstr "T√≠tulo del registrador"
+msgstr "Título del registrador"
 
 msgid "Post updated"
 msgstr "Mensaje actualizado"
@@ -2813,25 +2813,25 @@ msgid "Post created"
 msgstr "Mensaje creado"
 
 msgid "Last update"
-msgstr "√öltima actualizaci√≥n"
+msgstr "Última actualización"
 
 msgid "Create main administrator account"
 msgstr "Creare cuenta de administrador principal"
 
 msgid "Enter your email address"
-msgstr "Introduce tu direcci√≥n de email"
+msgstr "Introduce tu dirección de email"
 
 msgid "Enter your password"
-msgstr "Introduce tu contrase√±a"
+msgstr "Introduce tu contraseña"
 
 msgid "Create administrator account"
 msgstr "Creare cuenta de administrador"
 
 msgid "Remember me"
-msgstr "Recu√©rdame"
+msgstr "Recuérdame"
 
 msgid "Log me in"
-msgstr "Iniciar sesi√≥n"
+msgstr "Iniciar sesión"
 
 msgid "Extensions"
 msgstr "Extensiones"
@@ -2840,7 +2840,7 @@ msgid "Update BoxBilling"
 msgstr "Actualizar BoxBilling"
 
 msgid "Learn more about extensions"
-msgstr "Aprende m√°s sobre las extensiones"
+msgstr "Aprende más sobre las extensiones"
 
 msgid "Hooks"
 msgstr "Hooks"
@@ -2849,7 +2849,7 @@ msgid "Activate or deactivate extensions"
 msgstr "Activar o desactivar extensiones"
 
 msgid "Extension"
-msgstr "Extensi√≥n"
+msgstr "Extensión"
 
 msgid "Deactivate"
 msgstr "Desactivar"
@@ -2861,22 +2861,22 @@ msgid "Hook"
 msgstr "Hook"
 
 msgid "Automatic update"
-msgstr "Actualizaci√≥n autom√°tica"
+msgstr "Actualización automática"
 
 msgid "Automatic updater is a tool to update BoxBilling to latest version in one click. Works on these hosting environments where PHP has permissions to overwrite files uploaded via FTP."
-msgstr "Actualizador autom√°tico es una herramienta per actualizar BoxBilling a la √∫ltima versi√≥n con un clic. Funciona en entornos de alojamiento donde PHP tiene permisos per sobreescribir files subidos a trav√©s de FTP."
+msgstr "Actualizador automático es una herramienta per actualizar BoxBilling a la última versión con un clic. Funciona en entornos de alojamiento donde PHP tiene permisos per sobreescribir files subidos a través de FTP."
 
 msgid "Manual update"
-msgstr "Actualizaci√≥n manual"
+msgstr "Actualización manual"
 
 msgid "Manual update is a solution when auto updater can not work on current installation environment"
-msgstr "Actualizaci√≥n manual es una soluci√≥n cuando el auto actualizador no funciona en el entorno actual de la instalacion"
+msgstr "Actualización manual es una solución cuando el auto actualizador no funciona en el entorno actual de la instalacion"
 
 msgid "Extending BoxBilling"
 msgstr "Extendiendo BoxBilling"
 
 msgid "BoxBilling gives developers all the capabilities to customize, integrate & extend the core system into your own website & applications."
-msgstr "BoxBilling da a los desarrolladores todas las posibilidades per personalizar, integrar y extender el n√∫cleo del sistema dentro de tu propia web y aplicaciones."
+msgstr "BoxBilling da a los desarrolladores todas las posibilidades per personalizar, integrar y extender el núcleo del sistema dentro de tu propia web y aplicaciones."
 
 msgid "Staff"
 msgstr "Personale"
@@ -2909,5 +2909,5 @@ msgid "income"
 msgstr "entrate"
 
 msgid "Activity"
-msgstr "Attivit√†"
+msgstr "Attività"
 
