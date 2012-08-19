@@ -1,0 +1,2 @@
+[18-Aug-2012 22:03:49 UTC] PHP Warning:  Unexpected character in input:  '' (ASCII=12) state=0 in /home1/superati/public_html/boxbilling/bb/bb-locale/it_IT/LC_MESSAGES/scrib.php on line 49
+[18-Aug-2012 22:03:49 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED) in /home1/superati/public_html/boxbilling/bb/bb-locale/it_IT/LC_MESSAGES/scrib.php on line 85

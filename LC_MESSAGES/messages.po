@@ -1,18 +1,18 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: BoxBilling-it_IT - PAnnello di Controllo\n"
+"Project-Id-Version: BoxBilling-it_IT - Messaggi\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: gtrtyjh <oiujh@uhg.com>\n"
-"Language-Team: SuperAtic LABS\n"
-"Language: Italian\n"
-"MIME-Version: 1.0\n"
+"Last-Translator: BoxBilling <info@boxbilling.it>\n"
+"Language-Team: BoxBilling ITALIA\n"
+"Language: Italiano\n"
+"MIME-Version: 1.1\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
 "X-Poedit-Basepath: .\n"
-"X-Poedit-Language: Italin\n"
+"X-Poedit-Language: Italino\n"
 "X-Poedit-Country: ITALIA\n"
 "X-Poedit-SourceCharset: utf-8\n"
 
@@ -89,7 +89,7 @@ msgid "Do not have an account yet?"
 msgstr "¬øNo tienes una cuenta?"
 
 msgid "Enter your details below"
-msgstr "Indica tus datos a continuaci√≥n"
+msgstr "Indica tus datos a continuacion"
 
 msgid "Create new profile"
 msgstr "Crea nuovo Profilo"
@@ -104,7 +104,7 @@ msgid "Company"
 msgstr "Impresa"
 
 msgid "Password confirm"
-msgstr "Confirmar contrase√±a"
+msgstr "Confirmar contrasena"
 
 msgid "Thank you"
 msgstr "Grazie!"
@@ -302,16 +302,16 @@ msgid "Open control panel"
 msgstr "Pannello di Controllo"
 
 msgid "Change password"
-msgstr "Cambiar contrase√±a"
+msgstr "Cambiar contrasena"
 
 msgid "Change client area password"
 msgstr "Cambiare password account"
 
 msgid "Client area password changed"
-msgstr "Password del √Årea de Cliente cambiada"
+msgstr "Password del Area de Cliente cambiada"
 
 msgid "Enter new password"
-msgstr "Escriba la nueva contrase√±a"
+msgstr "Escriba la nueva contrasena"
 
 msgid "Dashboard"
 msgstr "Pannello"
@@ -326,13 +326,13 @@ msgid "Sign out"
 msgstr "Salir"
 
 msgid "Email address"
-msgstr "Direcci√≥n de email"
+msgstr "Direccion de email"
 
 msgid "Select language"
 msgstr "Elije el idioma"
 
 msgid "Popular articles"
-msgstr "Art√≠culos m√°s vistos"
+msgstr "Articulos mas vistos"
 
 msgid "Recent posts"
 msgstr "Publicaciones recientes"
@@ -341,10 +341,10 @@ msgid "About us"
 msgstr "Nosotros"
 
 msgid "Terms and conditions"
-msgstr "T√©rminos y Condiciones"
+msgstr "Terminos y Condiciones"
 
 msgid "Privacy policy"
-msgstr "Pol√≠tica de Privacidad"
+msgstr "Politica de Privacidad"
 
 msgid "Loading .."
 msgstr "Cargando ..."
@@ -359,19 +359,19 @@ msgid "Configure"
 msgstr "Configurar"
 
 msgid "The product/service you have chosen has the following configuration options for you to choose from."
-msgstr "Si existen extras u opciones de configuraci√≥n, se mostrar√°n en el siguiente paso."
+msgstr "Si existen extras u opciones de configuracion, se mostraran en el siguiente paso."
 
 msgid "GPS tracker IMEI"
 msgstr "IMEI del rastreador GPS"
 
 msgid "Enter GPS tracker IMEI number"
-msgstr "Introduzca el n√∫mero IMEI del rastreador GPS"
+msgstr "Introduzca el numero IMEI del rastreador GPS"
 
 msgid "Support tickets"
 msgstr "Tickets de Soporte"
 
 msgid "Need an answer? We are here to help"
-msgstr "¬øTienes una pregunta? Estamos aqu√≠ per ayudarte"
+msgstr "¬øTienes una pregunta? Estamos aqui per ayudarte"
 
 msgid "Id"
 msgstr "Id"
@@ -413,10 +413,10 @@ msgid "News & Announcements"
 msgstr "Noticias & Anuncios"
 
 msgid "Track our latest posts"
-msgstr "Siga nuestras √∫ltimas publicaciones"
+msgstr "Siga nuestras ultimas publicaciones"
 
 msgid "Read more.."
-msgstr "Leer m√°s..."
+msgstr "Leer mas..."
 
 msgid "Download file"
 msgstr "Descargar file"
@@ -446,7 +446,7 @@ msgid "Back to list"
 msgstr "Volver a la lista"
 
 msgid "Topic information"
-msgstr "Informaci√≥n del tema"
+msgstr "Informacion del tema"
 
 msgid "Topic"
 msgstr "Tema"
@@ -485,7 +485,7 @@ msgid "Redirecting to payment gateway.."
 msgstr "Redirigiendo a la pasarela de pago ..."
 
 msgid "Please click here to continue if this page does not redirect automatically in 5 seconds"
-msgstr "Haz clic aqu√≠ per continuar si esta p√°gina no te redirige automaticamente en 5 segundos"
+msgstr "Haz clic aqui per continuar si esta pagina no te redirige automaticamente en 5 segundos"
 
 msgid "Quantity:"
 msgstr "Cantidad:"
@@ -497,7 +497,7 @@ msgid "Price"
 msgstr "Precio"
 
 msgid "Setup Price"
-msgstr "Precio de configuraci√≥n"
+msgstr "Precio de configuracion"
 
 msgid "Continue"
 msgstr "Continuar"
@@ -518,13 +518,13 @@ msgid "Invoice"
 msgstr "Factura Proforma"
 
 msgid "Invoice is paid"
-msgstr "La factura est√° pagada"
+msgstr "La factura esta pagada"
 
 msgid "Account"
 msgstr "Cuenta"
 
 msgid "Company number"
-msgstr "N√∫mero de empresa"
+msgstr "Numero de empresa"
 
 msgid "VAT"
 msgstr "Impuesto"
@@ -536,7 +536,7 @@ msgid "Pay by"
 msgstr "Pagar con"
 
 msgid "Subscribe with"
-msgstr "Suscr√≠base con"
+msgstr "Suscribase con"
 
 msgid "Total:"
 msgstr "Total:"
@@ -548,10 +548,10 @@ msgid "Transactions"
 msgstr "Transacciones"
 
 msgid "Transaction Date"
-msgstr "Fecha de la Transaci√≥n"
+msgstr "Fecha de la Transacion"
 
 msgid "Transaction ID"
-msgstr "Transacci√≥n N¬∫"
+msgstr "Transaccion N¬∫"
 
 msgid "Gateway"
 msgstr "Pasarela"
@@ -566,7 +566,7 @@ msgid "Print"
 msgstr "Imprimir"
 
 msgid "Yes"
-msgstr "S√≠"
+msgstr "Si"
 
 msgid "No"
 msgstr "No"
@@ -584,10 +584,10 @@ msgid "Monthly price"
 msgstr "Prezzo Totale"
 
 msgid "Order confirm"
-msgstr "Confirmaci√≥n de pedido"
+msgstr "Confirmacion de pedido"
 
 msgid "Order confirmation"
-msgstr "Confirmaci√≥n del pedido"
+msgstr "Confirmacion del pedido"
 
 msgid "These are the products you have selected"
 msgstr "Estos son los productos que has seleccionado"
@@ -596,10 +596,10 @@ msgid "Product"
 msgstr "Producto"
 
 msgid "Period"
-msgstr "Per√≠odo"
+msgstr "Periodo"
 
 msgid "setup"
-msgstr "configuraci√≥n"
+msgstr "configuracion"
 
 msgid "Have a promo code?"
 msgstr "Codice Promocional"
@@ -614,7 +614,7 @@ msgid "Checkout"
 msgstr "Pagar"
 
 msgid "You have not selected any product"
-msgstr "No has seleccionado ning√∫n producto"
+msgstr "No has seleccionado ningun producto"
 
 msgid "Order new service"
 msgstr "Solicitar nuevo servicio"
@@ -659,34 +659,34 @@ msgid "Payments history"
 msgstr "Pagos"
 
 msgid "Here you can track your payments you have made and what you have been charged for"
-msgstr "Aqu√≠ puedes consultar los pagos que has realizado y los cargos que has tenido"
+msgstr "Aqui puedes consultar los pagos que has realizado y los cargos que has tenido"
 
 msgid "Description"
-msgstr "Descripci√≥n"
+msgstr "Descripcion"
 
 msgid "Date"
 msgstr "Fecha"
 
 msgid "Add Funds"
-msgstr "A√±adir Fondos"
+msgstr "Anadir Fondos"
 
 msgid "Balance"
 msgstr "Saldo"
 
 msgid "Add funds in advance"
-msgstr "A√±adir fondos da adelantado"
+msgstr "Anadir fondos da adelantado"
 
 msgid "You can add funds to your account if you have active order."
 msgstr "Puedes agregar fondos a tu cuenta si tienes un pedido activo."
 
 msgid "Add funds"
-msgstr "A√±adir fondos"
+msgstr "Anadir fondos"
 
 msgid "Similiar articles"
-msgstr "Art√≠culos similares"
+msgstr "Articulos similares"
 
 msgid "Knowledge base categories"
-msgstr "Categor√≠as del Centro de Ayuda"
+msgstr "Categorias del Centro de Ayuda"
 
 msgid "Terms and Conditions"
 msgstr "Terms and Conditions"
@@ -698,7 +698,7 @@ msgid "Time opened"
 msgstr "Tiempo abierto"
 
 msgid "Related to"
-msgstr "En relaci√≥n con"
+msgstr "En relacion con"
 
 msgid "Service #"
 msgstr "Servicio #"
@@ -770,10 +770,10 @@ msgid "FTP Password"
 msgstr "FTP Password"
 
 msgid "Change account password"
-msgstr "Cambiar la contrase√±a de la cuenta"
+msgstr "Cambiar la contrasena de la cuenta"
 
 msgid "Change your FTP cPanel SSH password."
-msgstr "Cambiar la contrase√±a SSH de su FTP de cPanel."
+msgstr "Cambiar la contrasena SSH de su FTP de cPanel."
 
 msgid "Password Confirm"
 msgstr "Confirmar Password"
@@ -794,10 +794,10 @@ msgid "OS template"
 msgstr "Plantilla OS"
 
 msgid "Become Partner"
-msgstr "Convi√©rtete en socio"
+msgstr "Conviertete en socio"
 
 msgid "Login and become partner"
-msgstr "Identif√≠cate y convi√©rtete en socio"
+msgstr "Identificate y conviertete en socio"
 
 msgid "Manage profile"
 msgstr "Gestionar perfil"
@@ -824,7 +824,7 @@ msgid "License key"
 msgstr "Riniziare"
 
 msgid "Valid IPs"
-msgstr "IPs V√°lidas"
+msgstr "IPs Validas"
 
 msgid "Valid hostnames"
 msgstr "Domini validi"
@@ -839,7 +839,7 @@ msgid "Profile details"
 msgstr "Detalles del perfil"
 
 msgid "Keep your profile up to date"
-msgstr "Mant√©n tu perfil actualizado"
+msgstr "Manten tu perfil actualizado"
 
 msgid "Change Password"
 msgstr "Cambiar Password"
@@ -860,22 +860,22 @@ msgid "Company Name"
 msgstr "Nome de la Empresa"
 
 msgid "Phone Country Code"
-msgstr "Codice Telef√≥nico de Pa√≠s"
+msgstr "Codice Telefonico de Pais"
 
 msgid "Phone Number"
-msgstr "N√∫mero de Tel√©fono"
+msgstr "Numero de Telefono"
 
 msgid "Address"
-msgstr "Direcci√≥n"
+msgstr "Direccion"
 
 msgid "Address 2"
-msgstr "Direcci√≥n 2"
+msgstr "Direccion 2"
 
 msgid "City"
 msgstr "Ciudad"
 
 msgid "Country"
-msgstr "Pa√≠s"
+msgstr "Pais"
 
 msgid "Zip/Postal Code"
 msgstr "Codice Postal"
@@ -884,7 +884,7 @@ msgid "API key"
 msgstr "Clave API "
 
 msgid "API key allows integration with external applications. You will need this key for authentication."
-msgstr "La Clave de la API permite la integraci√≥n con aplicaciones externas. Necesitar√°s esta clave per la autenticaci√≥n."
+msgstr "La Clave de la API permite la integracion con aplicaciones externas. Necesitaras esta clave per la autenticacion."
 
 msgid "Warning! Resetting the key will break existing applications using it."
 msgstr "¬°Advertencia! El restablecimiento de la key rompe las aplicaciones existentes que la utilizan."
@@ -896,7 +896,7 @@ msgid "Reset key"
 msgstr "Reiniciar"
 
 msgid "Please register with"
-msgstr "Por favor, reg√≠strate con"
+msgstr "Por favor, registrate con"
 
 msgid "at "
 msgstr "en "
@@ -911,13 +911,13 @@ msgid "Create new client profile if you want to manage your money in other curre
 msgstr "Debes Creare un perfil nuevo de cliente si deseas administrar importes en otra moneda"
 
 msgid "Your profile currency will be defined after your first order. Once your currency is set, all your profile accounting will be managed in that currency and can not be changed."
-msgstr "Tu perfil de moneda ser√° definido despu√©s de tu primer pedido. Una vez que tu moneda se defina, tu perfil de contabilidad se establecer√° en esa moneda y no se podr√° cambiar."
+msgstr "Tu perfil de moneda sera definido despues de tu primer pedido. Una vez que tu moneda se defina, tu perfil de contabilidad se establecera en esa moneda y no se podra cambiar."
 
 msgid "Addons & extras"
 msgstr "Addons & extras"
 
 msgid "Domain management"
-msgstr "Administraci√≥n del Dominio"
+msgstr "Administracion del Dominio"
 
 msgid "Domain details"
 msgstr "Detalles del Dominio"
@@ -932,13 +932,13 @@ msgid "Domain Secret"
 msgstr "Dominio Secreto"
 
 msgid "All domain names (except a .EU, .UK domain name) have a Domain (Transfer) Secret Key/Authorization Code (EPP Code) associated with them. This would be required if you want to transfer service."
-msgstr "Todos los nombres de dominio (con excepci√≥n de .EU y .UK) tienen una Clave (de transferencia) Secreta / Codice de autorizaci√≥n (EPP Code) asociados a ellos. Esto ser√≠a necesario si deseases transferir el servicio."
+msgstr "Todos los nombres de dominio (con excepcion de .EU y .UK) tienen una Clave (de transferencia) Secreta / Codice de autorizacion (EPP Code) asociados a ellos. Esto seria necesario si deseases transferir el servicio."
 
 msgid "Get EPP code"
 msgstr "Obtener codice EPP"
 
 msgid "Domain Protection"
-msgstr "Protecci√≥n del Dominio"
+msgstr "Proteccion del Dominio"
 
 msgid "Domain locking is a security enhancement to prevent unauthorized transfers of your domain to another registrar or web host by \"locking\" your domain name servers."
 msgstr "El Bloqueo de dominio es una mejora de seguridad per evitar transferencias no autorizadas de tu dominio a otro registrator da \"bloqueo\" de tus servers de nombres de dominio."
@@ -950,16 +950,16 @@ msgid "Lock"
 msgstr "Bloquear"
 
 msgid "Domain Privacy Settings"
-msgstr "Configuraci√≥n de Privacidad del Dominio"
+msgstr "Configuracion de Privacidad del Dominio"
 
 msgid "If you would like to hide domain contact information which is shown on WHOIS you can enable privacy protection. Once domain privacy protection is enabled no one will know who registered this service. And once you decide to disable privacy protection, information that is listed above on \"Update Domain Contact Details\" section will be seen on domain WHOIS again."
-msgstr "Si deseas ocultar la informaci√≥n de contacto del dominio que se muestra en la base de datos WHOIS, puedes habilitar la protecci√≥n de privacidad. Una vez que la protecci√≥n de la privacidad de dominio est√° activada, nadie sabr√° quien ha registrato este servicio. Y una vez que decidas desactivar la protecci√≥n de la privacidad, la informaci√≥n que aparece en la lista en la secci√≥n \"Detalles de la actualizaci√≥n del dominio de contacto\" se ver√° en el WHOIS del dominio de nuevo."
+msgstr "Si deseas ocultar la informacion de contacto del dominio que se muestra en la base de datos WHOIS, puedes habilitar la proteccion de privacidad. Una vez que la proteccion de la privacidad de dominio esta activada, nadie sabra quien ha registrato este servicio. Y una vez que decidas desactivar la proteccion de la privacidad, la informacion que aparece en la lista en la seccion \"Detalles de la actualizacion del dominio de contacto\" se vera en el WHOIS del dominio de nuevo."
 
 msgid "Disable Privacy protection"
-msgstr "Desactivar protecci√≥n de Privacidad"
+msgstr "Desactivar proteccion de Privacidad"
 
 msgid "Enable Privacy protection"
-msgstr "Activar protecci√≥n de Privacidad"
+msgstr "Activar proteccion de Privacidad"
 
 msgid "Domain Nameservers"
 msgstr "Nome de Servidores de Dominio"
@@ -977,31 +977,31 @@ msgid "Domain Contact Details"
 msgstr "Detalles de Contacto del Dominio"
 
 msgid "Domain contact details will be displayed once someone will check WHOIS output (which is public) of your service. This will update Technical, Billing and Admin contacts for this service. You can enable domain privacy protection if you want to hide your public WHOIS information."
-msgstr "Los detalles de contacto del dominio se mostrar√°n una vez que alguien haga una consulta WHOIS (que es p√∫blica) de tu servicio. Esto actualizar√° los contactos T√©cnico, de Facturaci√≥n y de Administraci√≥n per este servicio. Puedes habilitar la protecci√≥n de privacidad del dominio si deseas ocultar tu informaci√≥n p√∫blica en el WHOIS."
+msgstr "Los detalles de contacto del dominio se mostraran una vez que alguien haga una consulta WHOIS (que es publica) de tu servicio. Esto actualizara los contactos Tecnico, de Facturacion y de Administracion per este servicio. Puedes habilitar la proteccion de privacidad del dominio si deseas ocultar tu informacion publica en el WHOIS."
 
 msgid "Update domain contact details"
-msgstr "Actualizar la informaci√≥n de contacto del dominio"
+msgstr "Actualizar la informacion de contacto del dominio"
 
 msgid "Address Line 1"
-msgstr "Direcci√≥n L√≠nea 1"
+msgstr "Direccion Linea 1"
 
 msgid "Address Line 2"
-msgstr "Direcci√≥n L√≠nea 2"
+msgstr "Direccion Linea 2"
 
 msgid "Zip"
 msgstr "Codice Postal"
 
 msgid "Phone number"
-msgstr "N√∫mero de tel√©fono"
+msgstr "Numero de telefono"
 
 msgid "How to reset my password?"
-msgstr "¬øComo restablecer mi contrase√±a?"
+msgstr "¬øComo restablecer mi contrasena?"
 
 msgid "Enter your email to reset password. You will receive new password after reset link is confirmed."
 msgstr "Enter your email to reset password. You will receive new password after reset link is confirmed."
 
 msgid "Password reset confirmation email was sent"
-msgstr "Enviado email de confirmaci√≥n de restablecimiento de contrase√±a"
+msgstr "Enviado email de confirmacion de restablecimiento de contrasena"
 
 msgid "License details"
 msgstr "Detalles de la licencia"
@@ -1013,19 +1013,19 @@ msgid "All ips"
 msgstr "Todas las IPs"
 
 msgid "Valid Domains"
-msgstr "Dominios v√°lidos"
+msgstr "Dominios validos"
 
 msgid "All hosts"
 msgstr "Todos los hosts"
 
 msgid "Valid Versions"
-msgstr "Versiones V√°lidas"
+msgstr "Versiones Validas"
 
 msgid "All versions"
 msgstr "Todas las versiones"
 
 msgid "Valid Install paths"
-msgstr "Ruta (path) v√°lida per installare"
+msgstr "Ruta (path) valida per installare"
 
 msgid "All paths"
 msgstr "Todas las rutas (paths)"
@@ -1073,7 +1073,7 @@ msgid "Enter domain transfer code"
 msgstr "Indique el Codice de transferencia del dominio"
 
 msgid " Year/s @ "
-msgstr " A√±o/s: "
+msgstr " Ano/s: "
 
 msgid "My Products & Services"
 msgstr "Mis Productos & Servicios"
@@ -1091,7 +1091,7 @@ msgid "Service details"
 msgstr "Detalles del Servicio"
 
 msgid "All information about your service"
-msgstr "Toda la informaci√≥n sobre tu servicio"
+msgstr "Toda la informacion sobre tu servicio"
 
 msgid "Product name"
 msgstr "Nome del producto"
@@ -1100,7 +1100,7 @@ msgid "Payment amount"
 msgstr "Importe del pago"
 
 msgid "Billing cycle"
-msgstr "Ciclo de facturaci√≥n"
+msgstr "Ciclo de facturacion"
 
 msgid "Order status"
 msgstr "Estado de la solicitud"
@@ -1112,7 +1112,7 @@ msgid "Activated at"
 msgstr "Activado el"
 
 msgid "Renewal date"
-msgstr "Fecha de renovaci√≥n"
+msgstr "Fecha de renovacion"
 
 msgid "Order notes"
 msgstr "Notas de la solicitud"
@@ -1133,25 +1133,25 @@ msgid "Cancel"
 msgstr "Cancelar"
 
 msgid "Request Cancellation"
-msgstr "Solicitud de Cancelaci√≥n"
+msgstr "Solicitud de Cancelacion"
 
 msgid "I would like to cancel"
 msgstr "Quisiera cancelar"
 
 msgid "Reason"
-msgstr "Raz√≥n"
+msgstr "Razon"
 
 msgid "Open new support ticket regarding this order"
-msgstr "Abrir nuevo ticket de soporte en relaci√≥n a este pedido"
+msgstr "Abrir nuevo ticket de soporte en relacion a este pedido"
 
 msgid "Submit new support ticket. Ticket will be visible in support section after submission"
-msgstr "Inviare nuevo ticket de soporte. El ticket estar√° visible en la secci√≥n soporte despu√©s de ser inviata"
+msgstr "Inviare nuevo ticket de soporte. El ticket estara visible en la seccion soporte despues de ser inviata"
 
 msgid "Request upgrade"
 msgstr "Request upgrade"
 
 msgid "I would like to upgrade"
-msgstr "Me gustar√≠a actualizar"
+msgstr "Me gustaria actualizar"
 
 msgid "Upgrade to"
 msgstr "Upgrade to"
@@ -1166,7 +1166,7 @@ msgid "Addons you have ordered with this service"
 msgstr "Addons que ha solicitado con este servicio"
 
 msgid "Billing Cycle"
-msgstr "Ciclo de Facturaci√≥n"
+msgstr "Ciclo de Facturacion"
 
 msgid "Back to services"
 msgstr "Volver a servicios"
@@ -1193,7 +1193,7 @@ msgid "Confirm"
 msgstr "Confirmar"
 
 msgid "What are you looking for?"
-msgstr "¬øQu√© est√°s buscando?"
+msgstr "¬øQue estas buscando?"
 
 msgid "Search"
 msgstr "Buscar"
@@ -1211,7 +1211,7 @@ msgid "IMEI"
 msgstr "IMEI"
 
 msgid "Client Area"
-msgstr "√Årea de Clientes"
+msgstr "Area de Clientes"
 
 msgid "Tickets waiting your reply"
 msgstr "Tickets esperando su respuesta"
@@ -1226,7 +1226,7 @@ msgid "Active"
 msgstr "Activo"
 
 msgid "Soon expires"
-msgstr "Pr√≥ximo a vencimiento"
+msgstr "Proximo a vencimiento"
 
 msgid "All services"
 msgstr "Todos los servicios"
@@ -1259,13 +1259,13 @@ msgid "Order products and services"
 msgstr "Pedir Productos y Servicios"
 
 msgid "Become a member and manage services"
-msgstr "Convi√©rtete en cliente y gestiona tus servicios"
+msgstr "Conviertete en cliente y gestiona tus servicios"
 
 msgid "Contact Us"
 msgstr "Contacto"
 
 msgid "Contact us for more information"
-msgstr "Contacta con nosotros per m√°s informaci√≥n"
+msgstr "Contacta con nosotros per mas informacion"
 
 msgid "Announcements"
 msgstr "Anuncios"
@@ -1277,22 +1277,22 @@ msgid "Browse our KB for answers and FAQs"
 msgstr "Consulta nuestro Centro de Ayuda"
 
 msgid "Invoice Software"
-msgstr "Software de facturaci√≥n"
+msgstr "Software de facturacion"
 
 msgid "Powered by BoxBilling invoice software"
-msgstr "Powered by BoxBilling software de facturaci√≥n"
+msgstr "Powered by BoxBilling software de facturacion"
 
 msgid "Example module"
 msgstr "Ejemplo de modulo"
 
 msgid "Example module title"
-msgstr "Ejemplo de t√≠tulo de modulo"
+msgstr "Ejemplo de titulo de modulo"
 
 msgid "See protected content"
 msgstr "Ver contenido protegido"
 
 msgid "This content can be seen only if client is logged in"
-msgstr "Este contenido puede ser visto s√≥lo si el cliente est√° conectado"
+msgstr "Este contenido puede ser visto solo si el cliente esta conectado"
 
 msgid "Your protected content"
 msgstr "Tu contenido protegido"
@@ -1322,13 +1322,13 @@ msgid "Emails we have sent you"
 msgstr "Emails que te hemos inviata"
 
 msgid "Here you can track emails we have sent you"
-msgstr "Aqu√≠ puedes revisar los correos electr√≥nicos que te hemos inviata"
+msgstr "Aqui puedes revisar los correos electronicos que te hemos inviata"
 
 msgid "Email subject"
 msgstr "Oggetto del Email "
 
 msgid "Date sent"
-msgstr "Fecha de env√≠o"
+msgstr "Fecha de envio"
 
 msgid "Could not connect to whois :server server"
 msgstr "No se pudo conectar al server whois :server"
@@ -1340,7 +1340,7 @@ msgid "Error creating "
 msgstr "Error al Creare"
 
 msgid "Only active orders can be suspended"
-msgstr "S√≥lo pedidos activos pueden ser suspendidos"
+msgstr "Solo pedidos activos pueden ser suspendidos"
 
 msgid "Can not cancel "
 msgstr "No se puede cancelar"
@@ -1352,10 +1352,10 @@ msgid "Can not remove hosting plan which has active accounts"
 msgstr "No se puede elimininar el plan de alojamiento que tiene cuentas activas"
 
 msgid "Invoice item title is missing"
-msgstr "Manca el t√≠tulo del √≠tem de la factura"
+msgstr "Manca el titulo del item de la factura"
 
 msgid ":product setup"
-msgstr "Configuraci√≥n de :product"
+msgstr "Configuracion de :product"
 
 msgid "Could not activate proforma item. Order :id not found"
 msgstr "No se pudo activar el Item de la proforma. Ordine :id no encontrado"
@@ -1364,34 +1364,34 @@ msgid "Not enough money in client :id balance to pay for invoice #:invoice_id it
 msgstr "Non ci sono abbastanza fondi nel tuo account"
 
 msgid "Filename is missing in product config."
-msgstr "Manca el nombre del file en la configuraci√≥n de producto."
+msgstr "Manca el nombre del file en la configuracion de producto."
 
 msgid "Parameter :param does not exist"
-msgstr "El par√°metro :param no existe"
+msgstr "El parametro :param no existe"
 
 msgid "Theme was not found in path :path"
-msgstr "El tema no se encontr√≥ en la ruta :path"
+msgstr "El tema no se encontro en la ruta :path"
 
 msgid "Theme manifest file :file was not found"
-msgstr "El file manifiesto :file no se encontr√≥"
+msgstr "El file manifiesto :file no se encontro"
 
 msgid "Unable to decode theme manifest file :file"
 msgstr "No se puede decodificar el file manifiesto del tema :file"
 
 msgid "Please check if you have configured FTP layer properly in Configuration > General settings > FTP layer."
-msgstr "Por favor comprueba que has configurado la capa FTP apropiadamente en Configuraci√≥n > Ajustes Generales > Capa FTP."
+msgstr "Por favor comprueba que has configurado la capa FTP apropiadamente en Configuracion > Ajustes Generales > Capa FTP."
 
 msgid "Please make sure that FTP Root is defined properly. Could not find bb-config.php file in :path"
-msgstr "Por favor aseg√∫rate de que el acceso Root al FTP est√° definido correctamente. No se pudo encontrar el file bb-config.php en :path"
+msgstr "Por favor asegurate de que el acceso Root al FTP esta definido correctamente. No se pudo encontrar el file bb-config.php en :path"
 
 msgid "You have reached free version limit. Upgrade to PRO version of BoxBilling if you want this limit removed."
-msgstr "Has llegado al final del plazo de la versi√≥n libre. Actualiza a la versi√≥n PRO de BoxBilling si quieres eliminar este plazo."
+msgstr "Has llegado al final del plazo de la version libre. Actualiza a la version PRO de BoxBilling si quieres eliminar este plazo."
 
 msgid "BoxBilling license key must be defined in bb-config.php file as BB_LICENSE constant."
 msgstr "La clave de licencia de BoxBilling debe estar definida en el file bb-config.php como constante BB_LICENSE."
 
 msgid "PHP curl extension is disabled on your server. Please enable php curl extension."
-msgstr "La extensi√≥n CURL de PHP est√° desactivada en tu server. da favor activa la extensi√≥n CURL de PHP."
+msgstr "La extension CURL de PHP esta desactivada en tu server. da favor activa la extension CURL de PHP."
 
 msgid "Can not remove group with clients"
 msgstr "No se puede eliminar un grupo con clientes"
@@ -1400,25 +1400,25 @@ msgid "Could not find main domain product"
 msgstr "No se pudo encontrar el producto del dominio principal"
 
 msgid "Hosting product must have domain configuration"
-msgstr "El producto Hosting debe tener la configuraci√≥n del dominio"
+msgstr "El producto Hosting debe tener la configuracion del dominio"
 
 msgid "Domain action is missing"
-msgstr "Manca la acci√≥n de dominio"
+msgstr "Manca la accion de dominio"
 
 msgid "Hosting product must have defined register_sld parameter"
-msgstr "El producto Hosting debe tener definido el par√°metro register_sld"
+msgstr "El producto Hosting debe tener definido el parametro register_sld"
 
 msgid "Hosting product must have defined register_tld parameter"
-msgstr "El producto Hosting debe tener definido el par√°metro register_tld"
+msgstr "El producto Hosting debe tener definido el parametro register_tld"
 
 msgid "Hosting product must have defined transfer_sld parameter"
-msgstr "El producto Hosting debe tener definido el par√°metro transfer_sld"
+msgstr "El producto Hosting debe tener definido el parametro transfer_sld"
 
 msgid "Hosting product must have defined transfer_tld parameter"
-msgstr "El producto Hosting debe tener tener definido el par√°metro transfer_tld"
+msgstr "El producto Hosting debe tener tener definido el parametro transfer_tld"
 
 msgid "Can not remove category which has articles"
-msgstr "No se puede eliminar la categor√≠a que contiene art√≠culos"
+msgstr "No se puede eliminar la categoria que contiene articulos"
 
 msgid "Hosting product is not configured completely. Configure server for hosting product."
 msgstr "Productos de Hosting no configurados completamente. Configura el server per los productos de hosting."
@@ -1427,16 +1427,16 @@ msgid "Hosting product is not configured completely. Configure hosting plan for 
 msgstr "Productos de Hosting no configurados completamente. Configura un plan de alojamiento per los productos de hosting."
 
 msgid "Domain name is not valid."
-msgstr "Nome de dominio no v√°lido"
+msgstr "Nome de dominio no valido"
 
 msgid "Domain extension is not valid."
-msgstr "La extensi√≥n de dominio no es v√°lida."
+msgstr "La extension de dominio no es valida."
 
 msgid "Server from order configuration was not found"
-msgstr "La configuraci√≥n del server del pedido no se encontr√≥"
+msgstr "La configuracion del server del pedido no se encontro"
 
 msgid "Hosting plan from order configuration was not found"
-msgstr "La configuraci√≥n del Plan de Alojamiento del pedido no se encontr√≥"
+msgstr "La configuracion del Plan de Alojamiento del pedido no se encontro"
 
 msgid "Could not activate order. Service was not created"
 msgstr "No se pudo activar el pedido. El servicio no fue creado"
@@ -1445,97 +1445,97 @@ msgid "Order :id has no active service"
 msgstr "El pedido :id no tiene el servicio activo"
 
 msgid "Account password is missing or is not valid"
-msgstr "La contrase√±a de la cuenta falta o no es v√°lida"
+msgstr "La contrasena de la cuenta falta o no es valida"
 
 msgid "Account ip is missing or is not valid"
-msgstr "La IP de la cuenta falta o no es v√°lida"
+msgstr "La IP de la cuenta falta o no es valida"
 
 msgid "Domain sld or tld is missing"
 msgstr "Manca SLD o TLD del dominio"
 
 msgid "Can not checkout empty cart."
-msgstr "No se puede realizar un pedido con el carro vac√≠o."
+msgstr "No se puede realizar un pedido con el carro vacio."
 
 msgid "Selected currency :selected does not match your profile currency :code. Please change cart currency to continue."
 msgstr "La moneda seleccionada :selected no coincide con tu perfil de moneda :code. da favor cambia la moneda de compra per continuar. "
 
 msgid "Client currency is not defined. Currency can be set in client profile."
-msgstr "La moneda del cliente no est√° definida. La monede puede definirse en el perfil del cliente."
+msgstr "La moneda del cliente no esta definida. La monede puede definirse en el perfil del cliente."
 
 msgid "Can not refund invoice with negative amount"
 msgstr "No se puede devolver una factura con importe negativo"
 
 msgid "You must have at least one active order before you can add funds so you cannot proceed at the current time!"
-msgstr "Debes tener al menos un pedido activo antes de poder a√±adir fondos, da lo que no puedes proceder en este momento."
+msgstr "Debes tener al menos un pedido activo antes de poder anadir fondos, da lo que no puedes proceder en este momento."
 
 msgid "Amount is not valid"
-msgstr "Importe no v√°lido"
+msgstr "Importe no valido"
 
 msgid "Payment for invoice :serie:id"
 msgstr "Pago per la factura :serie:id"
 
 msgid "Can not remove invoice. It was paid but services were not activated"
-msgstr "No se puede eliminar la factura. Se pag√≥, pero los servicios no se activaron"
+msgstr "No se puede eliminar la factura. Se pago, pero los servicios no se activaron"
 
 msgid "License plugin :plugin was not found"
-msgstr "El plugin de licencia :plugin no se encontr√≥"
+msgstr "El plugin de licencia :plugin no se encontro"
 
 msgid "License plugin do not have generate method"
-msgstr "El Plugin de Licencia no ha generado el m√©todo"
+msgstr "El Plugin de Licencia no ha generado el metodo"
 
 msgid "Custom plugin method :method is forbidden"
-msgstr "M√©todo :method de plugin personalizzato est√° prohibido"
+msgstr "Metodo :method de plugin personalizzato esta prohibido"
 
 msgid "Plugin class file :file was not found"
-msgstr "No se encontr√≥ el file :file de clase del plugin"
+msgstr "No se encontro el file :file de clase del plugin"
 
 msgid "Plugin :plugin does not support action :action"
-msgstr "El plugin :plugin no soporta la acci√≥n :action"
+msgstr "El plugin :plugin no soporta la accion :action"
 
 msgid "Can not remove helpdesk which has tickets"
 msgstr "No se puede eliminar un Servicio de Asistencia que contiene entradas"
 
 msgid "Currency conversion rate can be zero"
-msgstr "La tasa de conversi√≥n de divisas puede ser 0"
+msgstr "La tasa de conversion de divisas puede ser 0"
 
 msgid "Can not remove default currency"
 msgstr "No se puede eliminar la moneda da defecto"
 
 msgid "This administrator account is protected and can not be removed"
-msgstr "Esta cuenta de administrador est√° protegida y no se puede eliminar"
+msgstr "Esta cuenta de administrador esta protegida y no se puede eliminar"
 
 msgid ":product_title"
 msgstr ":product_title"
 
 msgid "Can not remove product category with products"
-msgstr "No se puede eliminar una categor√≠a de productos que contiene productos"
+msgstr "No se puede eliminar una categoria de productos que contiene productos"
 
 msgid "Module :mod manifest file is missing"
-msgstr "Manca el M√≥dulo :mod del file de manifiesto"
+msgstr "Manca el Modulo :mod del file de manifiesto"
 
 msgid "Module :mod manifest file is not valid. Check file syntax and permissions."
-msgstr "El file de manifiesto del modulo :mod no es v√°lido. Comprueba la sintaxis y los permisos del file."
+msgstr "El file de manifiesto del modulo :mod no es valido. Comprueba la sintaxis y los permisos del file."
 
 msgid "BoxBilling module :module not found. Was it installed?"
-msgstr "M√≥dulo :module de BoxBilling no encontrado. ¬øFue instalado?"
+msgstr "Modulo :module de BoxBilling no encontrado. ¬øFue instalado?"
 
 msgid "BoxBilling core modules can not be installed or removed"
 msgstr "Los modulos del core de BoxBilling no se pueden installare o eliminar"
 
 msgid "Module can not be installed. It requires at least :min version of BoxBilling. You are using :v"
-msgstr "El modulo no se puede installare. Requiere al menos la versi√≥n :min de BoxBilling. Tu est√°s usando la :v"
+msgstr "El modulo no se puede installare. Requiere al menos la version :min de BoxBilling. Tu estas usando la :v"
 
 msgid "Could not retrieve version information for extension :ext"
-msgstr "No se pudo obtener informaci√≥n de la versi√≥n de la extensi√≥n :ext"
+msgstr "No se pudo obtener informacion de la version de la extension :ext"
 
 msgid "Latest :mod version installed. No need to update"
-msgstr "La versi√≥n m√°s reciente de :mod est√° instalada. No es necesario actualizar."
+msgstr "La version mas reciente de :mod esta instalada. No es necesario actualizar."
 
 msgid "Could not retrieve :ext information"
-msgstr "No se pudo recuperar la informaci√≥n :ext"
+msgstr "No se pudo recuperar la informacion :ext"
 
 msgid "Visit extension site for update information."
-msgstr "Visita el sitio de extensiones per informaci√≥n sobre la actualizaci√≥n."
+msgstr "Visita el sitio de extensiones per informacion sobre la actualizacion."
 
 msgid "BoxBilling core modules can not be managed"
 msgstr "Los modulos del core de BoxBilling no se pueden gestionar"
@@ -1544,19 +1544,19 @@ msgid "Could not extract extension zip file"
 msgstr "No se pudo extraer el file zip"
 
 msgid "Module already installed."
-msgstr "M√≥dulo instalado."
+msgstr "Modulo instalado."
 
 msgid "Extension can not be moved. Make sure your server write permissions to bb-modules folder."
-msgstr "La extensi√≥n no puede ser movida. Aseg√∫rate de que la carpeta bb-modules de tu server tiene permisos de escritura."
+msgstr "La extension no puede ser movida. Asegurate de que la carpeta bb-modules de tu server tiene permisos de escritura."
 
 msgid "Extension can not be moved. Make sure your server write permissions to bb-themes folder."
-msgstr "La extensi√≥n no puede ser movida. Aseg√∫rate de que la carpeta bb-themes de tu server tiene permisos de escritura."
+msgstr "La extension no puede ser movida. Asegurate de que la carpeta bb-themes de tu server tiene permisos de escritura."
 
 msgid "Extension can not be moved. Make sure your server write permissions to bb-locale folder."
-msgstr "La extensi√≥n no puede ser movida. Aseg√∫rate de que la carpeta bb-locale de tu server tiene permisos de escritura."
+msgstr "La extension no puede ser movida. Asegurate de que la carpeta bb-locale de tu server tiene permisos de escritura."
 
 msgid "Extension does not support auto-install deature. Extension must be installed manually"
-msgstr "La extensi√≥n no soporta la caracter√≠stica de autoinstalaci√≥n. La extensi√≥n debe ser instalada manualmente"
+msgstr "La extension no soporta la caracteristica de autoinstalacion. La extension debe ser instalada manualmente"
 
 msgid "Unable to connect to BoxBilling extensiosn site."
 msgstr "Imposible conectar con el sitio de extensiones de BoxBilling."
@@ -1568,28 +1568,28 @@ msgid "Can not remove group which has staff members"
 msgstr "No se puede eliminar un grupo que contiene miembros del staff"
 
 msgid "This is a last message in topic. Remove topic in order to remove this message."
-msgstr "Este es el √∫ltimo mensaje del tema. Elimina el tema con el fin de eliminar este mensaje."
+msgstr "Este es el ultimo mensaje del tema. Elimina el tema con el fin de eliminar este mensaje."
 
 msgid "Payment gateway :adapter was not found"
-msgstr "Pasarela de pago :adapter no se encontr√≥"
+msgstr "Pasarela de pago :adapter no se encontro"
 
 msgid "Invalid payment adapter :adapter"
-msgstr "Adaptador de pago :adapter inv√°lido"
+msgstr "Adaptador de pago :adapter invalido"
 
 msgid "Are you registering new domain or transfering existing? Action parameter missing."
-msgstr "¬øEst√°s registrando un nuevo dominio o transfiriendo uno existente? Manca el par√°metro de acci√≥n."
+msgstr "¬øEstas registrando un nuevo dominio o transfiriendo uno existente? Manca el parametro de accion."
 
 msgid "Invalid domain action."
-msgstr "Acci√≥n de dominio inv√°lida."
+msgstr "Accion de dominio invalida."
 
 msgid "Order data must contain :field configuration field"
-msgstr "Los datos del pedido deben contener el campo de configuraci√≥n :field"
+msgstr "Los datos del pedido deben contener el campo de configuracion :field"
 
 msgid "Domain name :domain is not valid"
-msgstr "El nombre de Dominio :domain no es v√°lido"
+msgstr "El nombre de Dominio :domain no es valido"
 
 msgid "Domain TLD is not valid."
-msgstr "El TLD de Dominio no es v√°lido."
+msgstr "El TLD de Dominio no es valido."
 
 msgid "Domain name is required."
 msgstr "Nome de dominio requerido"
@@ -1610,19 +1610,19 @@ msgid ":domain can not be transfered!"
 msgstr ":domain no puede ser transferido"
 
 msgid "Domain registration tld parameter missing."
-msgstr "Manca par√°metro TLD de registro de dominio"
+msgstr "Manca parametro TLD de registro de dominio"
 
 msgid "Domain registration sld parameter missing."
-msgstr "Manca par√°metro SLD de registro de dominio"
+msgstr "Manca parametro SLD de registro de dominio"
 
 msgid "Years parameter is missing for domain configuration."
-msgstr "Manca par√°metro de A√±os per la configuraci√≥n del dominio."
+msgstr "Manca parametro de Anos per la configuracion del dominio."
 
 msgid ":tld can be registered for at least :years years"
 msgstr ":tld puede ser registrato al menos :years anni"
 
 msgid ":domain is already registered!"
-msgstr ":domain ya est√° registrato"
+msgstr ":domain ya esta registrato"
 
 msgid "Default domain nameservers are not configured"
 msgstr "Nomes de Servidores da defecto no configurados"
@@ -1640,7 +1640,7 @@ msgid "Required field :field is missing"
 msgstr "Manca el campo requerido :field"
 
 msgid "Domain name is not valid"
-msgstr "Nome de dominio no v√°lido"
+msgstr "Nome de dominio no valido"
 
 msgid "Domain can not be transfered"
 msgstr "El Dominio no puede ser transferido"
@@ -1649,19 +1649,19 @@ msgid "Domain can not be registered"
 msgstr "El Dominio no puede ser registrato"
 
 msgid "Period parameter not passed"
-msgstr "Par√°metro de per√≠odo no pasado"
+msgstr "Parametro de periodo no pasado"
 
 msgid "I'm afraid we are out of stock."
-msgstr "Me temo que est√° fuera de stock."
+msgstr "Me temo que esta fuera de stock."
 
 msgid "Addon period parameter not passed"
-msgstr "El par√°metro de per√≠odo del Addon no pas√≥"
+msgstr "El parametro de periodo del Addon no paso"
 
 msgid "Product not found"
 msgstr "Producto no encontrado"
 
 msgid "Add products to cart before applying promo code"
-msgstr "A√±ade productos a la cesta antes de aplicar un codice promocional"
+msgstr "Anade productos a la cesta antes de aplicar un codice promocional"
 
 msgid "Currency can not be changed. Client already have invoices issued."
 msgstr "No se puede cambiar la moneda. Clientes ya tienen facturas emitidas."
@@ -1670,7 +1670,7 @@ msgid "Currency can not be changed. Client already have orders."
 msgstr "La moneda no puede ser cambiada. El cliente ya tiene pedidos."
 
 msgid "Could not determine domain price. Domain action is missing"
-msgstr "No se pudo determinar el precio del dominio. La acci√≥n de dominio no se encuentra"
+msgstr "No se pudo determinar el precio del dominio. La accion de dominio no se encuentra"
 
 msgid "Unknown TLD. Could not determine registration price"
 msgstr "TLD desconocido. No se puede determinar el precio de registro"
@@ -1682,58 +1682,58 @@ msgid "Unknown transaction #:id type: :type"
 msgstr "Transazione sconosciuta #:id tipo: :type"
 
 msgid "Could not determine transaction origin. Transaction payment gateway is unknown."
-msgstr "No se pudo determinar el origen de la transacci√≥n. Se desconoce la pasarela de pago de la transacci√≥n."
+msgstr "No se pudo determinar el origen de la transaccion. Se desconoce la pasarela de pago de la transaccion."
 
 msgid "Can not handle transaction received from unknown payment gateway: :id"
 msgstr "No se puede manejar transacciones recibidas de la pasarela de pago desconocida: :id"
 
 msgid "Transaction :id is not associated with an invoice."
-msgstr "La transacci√≥n :id no est√° asociada con una factura."
+msgstr "La transaccion :id no esta asociada con una factura."
 
 msgid "Invoice #:id not found"
 msgstr "Fattura non trovata!"
 
 msgid "Instant payment notification (IPN) did not pass gateway :id validation"
-msgstr "Notificaci√≥n Instant√°nea de Pago (IPN) no pas√≥ la validaci√≥n de la pasarela de pago :id"
+msgstr "Notificacion Instantanea de Pago (IPN) no paso la validacion de la pasarela de pago :id"
 
 msgid "Payment gateway :id method getTransaction should return Payment_Transaction object"
-msgstr "Pasarela de pago :id m√©todo getTransaction debe devolver un objeto  Payment_Transaction"
+msgstr "Pasarela de pago :id metodo getTransaction debe devolver un objeto  Payment_Transaction"
 
 msgid "Can not create subscription. Subscription id from payment gateway was not received"
-msgstr "No se puede Creare la suscripci√≥n. El ID de la suscripci√≥n de la pasarela de pago no se ha recibido"
+msgstr "No se puede Creare la suscripcion. El ID de la suscripcion de la pasarela de pago no se ha recibido"
 
 msgid "Subscription #:id was not found. Could not unsusbscribe"
-msgstr "Suscripci√≥n #:id no se ha encontrado. No se ha podido desuscribir"
+msgstr "Suscripcion #:id no se ha encontrado. No se ha podido desuscribir"
 
 msgid "Only approved transaction can be processed"
-msgstr "S√≥lo las transacciones aprobadas pueden ser procesadas"
+msgstr "Solo las transacciones aprobadas pueden ser procesadas"
 
 msgid "Transaction currency :code do not match required currency :required"
-msgstr "La moneda de transacci√≥n :code no coincide con la moneda requerida :required"
+msgstr "La moneda de transaccion :code no coincide con la moneda requerida :required"
 
 msgid "Transaction status on payment gateway is Pending. Only Complete or Unknown transactions can be processed."
-msgstr "El estado de la transacci√≥n en la pasarela de pago es Pendiente. S√≥lo transacciones Completadas o Desconocidas pueden ser procesadas."
+msgstr "El estado de la transaccion en la pasarela de pago es Pendiente. Solo transacciones Completadas o Desconocidas pueden ser procesadas."
 
 msgid "Define clients currency before adding funds."
-msgstr "Define la moneda de los clientes antes de a√±adir fondos."
+msgstr "Define la moneda de los clientes antes de anadir fondos."
 
 msgid "Funds amount is not valid"
-msgstr "Cantidad de fondos no v√°lida"
+msgstr "Cantidad de fondos no valida"
 
 msgid "Funds description is not valid"
-msgstr "Descripci√≥n de fondos no v√°lida"
+msgstr "Descripcion de fondos no valida"
 
 msgid "Not enough credits in balance to pay for invoice"
-msgstr "No hay suficientes cr√©ditos en el balance per pagar la factura"
+msgstr "No hay suficientes creditos en el balance per pagar la factura"
 
 msgid "Client currency do not match invoice currency"
 msgstr "La moneda del cliente no coincide con la moneda de la factura"
 
 msgid "Can not add negative amount to client balance for debit transaction"
-msgstr "No se puede agregar un valor negativo al balance del cliente per transacciones de d√©bito"
+msgstr "No se puede agregar un valor negativo al balance del cliente per transacciones de debito"
 
 msgid "Conversion rate can't be 0"
-msgstr "La tasa de conversi√≥n no puede ser 0"
+msgstr "La tasa de conversion no puede ser 0"
 
 msgid "Product pricing could not be determined. "
 msgstr "No es posible determinar el precio del producto."
@@ -1742,58 +1742,58 @@ msgid "Repo class for product was not found"
 msgstr "La clase Repo per el producto no se ha encontrado"
 
 msgid "Unknown Period selected for setup price"
-msgstr "Per√≠odo seleccionado desconocido per el precio de configuraci√≥n"
+msgstr "Periodo seleccionado desconocido per el precio de configuracion"
 
 msgid "Product :id payment type is recurrent, but period was not selected"
-msgstr "El tipo de pago per el producto :id es recurrente, pero el per√≠dodo no se ha seleccionado"
+msgstr "El tipo de pago per el producto :id es recurrente, pero el peridodo no se ha seleccionado"
 
 msgid "Unknown Period selected for price"
-msgstr "Per√≠odo seleccionado desconocido per el precio"
+msgstr "Periodo seleccionado desconocido per el precio"
 
 msgid "Can not remove product which has active orders."
 msgstr "No se puede eliminar un producto que contiene pedidos activos."
 
 msgid "Invalid server manager. Server was not configured properly."
-msgstr "Administrador de server no v√°lido. El server no est√° configurado apropiadamente."
+msgstr "Administrador de server no valido. El server no esta configurado apropiadamente."
 
 msgid "Server manager :adapter is not valid"
-msgstr "Administrador de server :adapter no es v√°lido"
+msgstr "Administrador de server :adapter no es valido"
 
 msgid "Can not remove server which has active accounts"
 msgstr "No se puede eliminar un server que tiene cuentas activas"
 
 msgid "Domain registrar :adapter was not found"
-msgstr "registrator :adapter no se encontr√≥"
+msgstr "registrator :adapter no se encontro"
 
 msgid "Registrar :adapter was not found"
-msgstr "registrator :adapter no se encontr√≥"
+msgstr "registrator :adapter no se encontro"
 
 msgid "Registrar adapter :adapter should extend Registrar_AdapterAbstract"
-msgstr "Adaptador de registrator :adapter deber√≠a extender Registrar_AdapterAbstract"
+msgstr "Adaptador de registrator :adapter deberia extender Registrar_AdapterAbstract"
 
 msgid "Can not remove registrar which has domains"
 msgstr "No se puede eliminar un registrator que tiene dominios"
 
 msgid "Invalid identity"
-msgstr "Identidad inv√°lida"
+msgstr "Identidad invalida"
 
 msgid ":module method toApiArray not found"
-msgstr ":module m√©todo toApiArray no encontrado"
+msgstr ":module metodo toApiArray no encontrado"
 
 msgid "Client api can not be invoked from guest or admin role"
 msgstr "La API Cliente no puede ser invocada desde el rol de invitado o administrador"
 
 msgid "Invalid identity. Clear browser cookies"
-msgstr "Identidad inv√°lida. Limpia las cookies del navegador"
+msgstr "Identidad invalida. Limpia las cookies del navegador"
 
 msgid "Method :method must contain underscore"
-msgstr "El m√©todo :method debe contener subrayados"
+msgstr "El metodo :method debe contener subrayados"
 
 msgid "BoxBilling module :mod is not installed/activated"
-msgstr "El modulo de BoxBilling :mod no est√° instalado/activado"
+msgstr "El modulo de BoxBilling :mod no esta instalado/activado"
 
 msgid "Module api file :file is not available"
-msgstr "El modulo api de files :file no est√° disponible"
+msgstr "El modulo api de files :file no esta disponible"
 
 msgid "Api class must be instance of Api_Abstract"
 msgstr "La clase Api debe ser una instancia de Api_Abstract"
@@ -1826,10 +1826,10 @@ msgid "decade"
 msgstr "decennio"
 
 msgid "Period Error. Unit :unit is not defined"
-msgstr "Error de per√≠odo. Unidad :unit no est√° definida"
+msgstr "Error de periodo. Unidad :unit no esta definida"
 
 msgid "Invalid period quantity :qty for unit :unit. Allowed range is from :from to :to"
-msgstr "Cantidad de per√≠odo :qty inv√°lida per unidad :unit. El rango permitido es de :from a :to"
+msgstr "Cantidad de periodo :qty invalida per unidad :unit. El rango permitido es de :from a :to"
 
 msgid "Every week"
 msgstr "Cada settimana"
@@ -1853,7 +1853,7 @@ msgid "Every 3 years"
 msgstr "Cada 3 anni"
 
 msgid "Every :number day"
-msgstr "Cada :number d√≠a"
+msgstr "Cada :number dia"
 
 msgid "Every :number week(s)"
 msgstr "Cada :number settimana(s)"
@@ -1871,16 +1871,16 @@ msgid "Can not determine months amount from unit"
 msgstr "No se puede determinar la cantidad de mesi de la unidad"
 
 msgid "CURL extension is not enabled"
-msgstr "Extensi√≥n CURL no activada"
+msgstr "Extension CURL no activada"
 
 msgid "Service class :class was not found in :path"
-msgstr "La clase de servicio :class no se encontr√≥ en :path"
+msgstr "La clase de servicio :class no se encontro en :path"
 
 msgid "Client controller class :class was not found in :path"
-msgstr "La clase controlador de cliente :class no se encontr√≥ en :path"
+msgstr "La clase controlador de cliente :class no se encontro en :path"
 
 msgid "Admin controller class :class was not found in :path"
-msgstr "La clase controlador de administrador :class no se encontr√≥ en :path"
+msgstr "La clase controlador de administrador :class no se encontro en :path"
 
 msgid "Core module can not be installed"
 msgstr "No se puede installare el modulo del core"
@@ -1892,10 +1892,10 @@ msgid "Core module can not be updated"
 msgstr "No se puede actualizar el modulo del core"
 
 msgid "FTP extension is not enabled in PHP. You will not be able to use automatic updates and other automation."
-msgstr "Extensi√≥n FTP no activada en PHP. No podr√°s utilizar las actualizaciones autom√°ticas ni otras automatizaciones."
+msgstr "Extension FTP no activada en PHP. No podras utilizar las actualizaciones automaticas ni otras automatizaciones."
 
 msgid "The ftp PHP extension is not available"
-msgstr "La extensi√≥n FTP de PHP no est√° disponible"
+msgstr "La extension FTP de PHP no esta disponible"
 
 msgid "FTP hostname is required"
 msgstr "Nome de host del FTP requerido"
@@ -1925,25 +1925,25 @@ msgid "Unable to write to stream"
 msgstr "Imposible escribir a stream"
 
 msgid ":module method getSearchQuery not found"
-msgstr "m√©todo :module getSearchQuery no encontrado"
+msgstr "metodo :module getSearchQuery no encontrado"
 
 msgid "Invalid :module method getSearchQuery return"
-msgstr ":module inv√°lido devuelto da el m√©todo getSearchQuery"
+msgstr ":module invalido devuelto da el metodo getSearchQuery"
 
 msgid "Page :url not found"
-msgstr "P√°gina :url no encontrada"
+msgstr "Pagina :url no encontrada"
 
 msgid "Page not found"
-msgstr "P√°gina no encontrada"
+msgstr "Pagina no encontrada"
 
 msgid "File :file does not exist"
 msgstr "El file :file no existe"
 
 msgid "Invalid zip file"
-msgstr "File zip inv√°lido"
+msgstr "File zip invalido"
 
 msgid "Zip extraction failed"
-msgstr "Errore la extracci√≥n del zip"
+msgstr "Errore la extraccion del zip"
 
 msgid "Unknown mail transport: :transport"
 msgstr "Desconocido transporte mail :transport"
@@ -1964,13 +1964,13 @@ msgid "Bad log priority"
 msgstr "Mala prioridad de log"
 
 msgid "Email is not valid"
-msgstr "El email no es v√°lido"
+msgstr "El email no es valido"
 
 msgid "Password too short!"
 msgstr "¬°Password demasiado corta!"
 
 msgid "Password must include at least one number!"
-msgstr "¬°La Password debe incluir al menos un n√∫mero!"
+msgstr "¬°La Password debe incluir al menos un numero!"
 
 msgid "Password must include at least one letter!"
 msgstr "¬°La Password debe incluir al menos una letra!"
@@ -2024,10 +2024,10 @@ msgid "BoxBilling in your language"
 msgstr "BoxBilling nella tua lingia"
 
 msgid "Although BoxBilling displays in U.S. English by default, the software has the built-in capability to be used in any language. Follow instructions bellow to install new language."
-msgstr "Aunque BoxBilling se muestra en Ingl√©s de EEUU da defecto, el software tiene la capacidad incorporada per ser utilizado en cualquier idioma. Sigue las instrucciones de abajo per installare el nuevo idioma."
+msgstr "Aunque BoxBilling se muestra en Ingles de EEUU da defecto, el software tiene la capacidad incorporada per ser utilizado en cualquier idioma. Sigue las instrucciones de abajo per installare el nuevo idioma."
 
 msgid "Check if your language translation file is available at"
-msgstr "Comprueba si el file de tu idioma est√° disponible en"
+msgstr "Comprueba si el file de tu idioma esta disponible en"
 
 msgid "BoxBilling extensions site"
 msgstr "Impossibile connettersi al sito extension.BoxBilling.com"
@@ -2036,7 +2036,7 @@ msgid "Download language files and place them to"
 msgstr "Descargar los files de idioma y ponerlos para"
 
 msgid "Language will be automatically available and can be changed in client area"
-msgstr "Los idiomas estar√°n automaticamente disponibles y pueden ser cambiados en el √°rea de clientes"
+msgstr "Los idiomas estaran automaticamente disponibles y pueden ser cambiados en el area de clientes"
 
 msgid "Read"
 msgstr "Leer"
@@ -2045,7 +2045,7 @@ msgid "Installing BoxBilling in Your Language"
 msgstr "Instalando BoxBilling en tu idioma"
 
 msgid "to learn how to install files that will transform BoxBilling so it displays in your language."
-msgstr "para aprender a installare los files que transformar√°n BoxBilling per que se muestre en tu idioma."
+msgstr "para aprender a installare los files que transformaran BoxBilling per que se muestre en tu idioma."
 
 msgid "Translations can be made with"
 msgstr "Las traducciones pueden hacerse con"
@@ -2063,7 +2063,7 @@ msgid "Removing language"
 msgstr "Scegli lingua"
 
 msgid "Removing languages from BoxBilling is really simple. Just delete language folder you wish from"
-msgstr "Eliminar idiomas de BoxBilling es realmente simple. S√≥lo borra la carpeta del idioma que desees"
+msgstr "Eliminar idiomas de BoxBilling es realmente simple. Solo borra la carpeta del idioma que desees"
 
 msgid "Hi,"
 msgstr "Hola,"
@@ -2108,10 +2108,10 @@ msgid "Forum topic"
 msgstr "Argomenti favoriti"
 
 msgid "Parameter key is missing"
-msgstr "Manca el par√°metro Clave"
+msgstr "Manca el parametro Clave"
 
 msgid "_tpl parameter not passed"
-msgstr "Par√°metro _tpl no pasado"
+msgstr "Parametro _tpl no pasado"
 
 msgid "ID is required"
 msgstr "ID requerido"
@@ -2129,10 +2129,10 @@ msgid "Post id not passed"
 msgstr "ID de Post no pasado"
 
 msgid "Post not found"
-msgstr "Publicaci√≥n no encontrada"
+msgstr "Publicacion no encontrada"
 
 msgid "Post title not passed"
-msgstr "T√≠tulo de la Publicaci√≥n no facilitada"
+msgstr "Titulo de la Publicacion no facilitada"
 
 msgid "Form title was not provided"
 msgstr "File NON caricato"
@@ -2150,31 +2150,31 @@ msgid "Theme code is missing"
 msgstr "Manca el codice del tema"
 
 msgid "You have latest version of BoxBilling. You do not need to update."
-msgstr "Tienes la versi√≥n m√°s reciente de BoxBilling. No es necesario actualizar."
+msgstr "Tienes la version mas reciente de BoxBilling. No es necesario actualizar."
 
 msgid "Extension id was not passed"
-msgstr "El id de extensi√≥n no fue aprobado"
+msgstr "El id de extension no fue aprobado"
 
 msgid "Extension type was not passed"
-msgstr "El tipo de extensi√≥n no fue aprobado"
+msgstr "El tipo de extension no fue aprobado"
 
 msgid "Parameter ext was not passed"
-msgstr "El par√°metro ext no fue aprobado"
+msgstr "El parametro ext no fue aprobado"
 
 msgid "Extension not found"
-msgstr "Extensi√≥n no encontrada"
+msgstr "Extension no encontrada"
 
 msgid "Can not change email. It is already registered."
-msgstr "No se puede cambiar el email. Ya est√° registrato."
+msgstr "No se puede cambiar el email. Ya esta registrato."
 
 msgid "Password required"
 msgstr "Password requerida"
 
 msgid "Password confiration required"
-msgstr "Configuraci√≥n de contrase√±a requerida"
+msgstr "Configuracion de contrasena requerida"
 
 msgid "Passwords do not match."
-msgstr "Las contrase√±as no coinciden."
+msgstr "Las contrasenas no coinciden."
 
 msgid "Client ID required"
 msgstr "ID de Cliente requerido"
@@ -2195,7 +2195,7 @@ msgid "Password is required"
 msgstr "Password requerida"
 
 msgid "Email is already registered."
-msgstr "El email ya est√° registrato."
+msgstr "El email ya esta registrato."
 
 msgid "Client id is missing"
 msgstr "Manca el ID de cliente"
@@ -2207,25 +2207,25 @@ msgid "Client ID is required"
 msgstr "ID de Cliente requerido"
 
 msgid "Password confirmation required"
-msgstr "Confirmaci√≥n de contrase√±a requerida"
+msgstr "Confirmacion de contrasena requerida"
 
 msgid "Passwords do not match"
-msgstr "La contrase√±a no coincide"
+msgstr "La contrasena no coincide"
 
 msgid "Balance line not found"
-msgstr "L√≠nea del balance no encontrada"
+msgstr "Linea del balance no encontrada"
 
 msgid "Amount is required"
 msgstr "Total requerido"
 
 msgid "Description is required"
-msgstr "Descripci√≥n requerida"
+msgstr "Descripcion requerida"
 
 msgid "Id not passed"
-msgstr "ID no pas√≥"
+msgstr "ID no paso"
 
 msgid "Group title is missing"
-msgstr "Manca el t√≠tulo de grupo"
+msgstr "Manca el titulo de grupo"
 
 msgid "Group id is missing"
 msgstr "Manca el ID de grupo"
@@ -2249,16 +2249,16 @@ msgid "Hash required"
 msgstr "Hash requerido"
 
 msgid "The link have expired or you have already confirmed password reset."
-msgstr "El enlace ha expirado o ya se ha confirmado el restablecimiento de la contrase√±a."
+msgstr "El enlace ha expirado o ya se ha confirmado el restablecimiento de la contrasena."
 
 msgid "Title is required"
-msgstr "T√≠tulo es requerido"
+msgstr "Titulo es requerido"
 
 msgid "Type is required"
 msgstr "Tipo es requerido"
 
 msgid "Product Category Id is required"
-msgstr "ID de Categor√≠a de Producto es requerido"
+msgstr "ID de Categoria de Producto es requerido"
 
 msgid "You have already created domain product."
 msgstr "Ya has creado el producto dominio."
@@ -2267,7 +2267,7 @@ msgid "Pricing type is required"
 msgstr "Tipo de Precio es requerido"
 
 msgid "priority params is missing"
-msgstr "faltan par√°metros prioritarios"
+msgstr "faltan parametros prioritarios"
 
 msgid "Addon id is required"
 msgstr "Addon es requerido"
@@ -2276,31 +2276,31 @@ msgid "Addon not found"
 msgstr "Addon no encontrado"
 
 msgid "Category id is missing"
-msgstr "Manca ID de Categor√≠a"
+msgstr "Manca ID de Categoria"
 
 msgid "Category not found"
-msgstr "Categor√≠a no encontrada"
+msgstr "Categoria no encontrada"
 
 msgid "Category title is missing"
-msgstr "Manca t√≠tulo de Categor√≠a"
+msgstr "Manca titulo de Categoria"
 
 msgid "Promo code is missing"
 msgstr "Manca codice promocional"
 
 msgid "Promo type is missing"
-msgstr "Manca tipo de promoci√≥n"
+msgstr "Manca tipo de promocion"
 
 msgid "Promo value is missing"
-msgstr "Manca valor de la promoci√≥n"
+msgstr "Manca valor de la promocion"
 
 msgid "Promo id is missing"
-msgstr "Manca ID de la promoci√≥n"
+msgstr "Manca ID de la promocion"
 
 msgid "Promo not found"
-msgstr "Promoci√≥n no encontrada"
+msgstr "Promocion no encontrada"
 
 msgid "Product id not passed"
-msgstr "No se pas√≥ el ID del producto"
+msgstr "No se paso el ID del producto"
 
 msgid "Product ID or slug is missing"
 msgstr "Manca ID de Producto o Slug "
@@ -2330,28 +2330,28 @@ msgid "Template code not passed"
 msgstr "Codice de plantilla no pasado"
 
 msgid "Receiver is not defined. Define to or to_client or to_staff parameter"
-msgstr "El receptor no est√° definido. Definir per el par√°metro para_cliente o para_staff"
+msgstr "El receptor no esta definido. Definir per el parametro para_cliente o para_staff"
 
 msgid "Email template code was not passed"
-msgstr "No se encontr√≥ el codice de la plantilla de email"
+msgstr "No se encontro el codice de la plantilla de email"
 
 msgid "Email template :code was not found"
-msgstr "No se encontr√≥ la plantilla de email :code"
+msgstr "No se encontro la plantilla de email :code"
 
 msgid "To use reCAPTCHA you must get an API key from <a href='https://www.google.com/recaptcha/admin/create'>https://www.google.com/recaptcha/admin/create</a>"
 msgstr "Para usar reCAPTCHA debes conseguir una clave API de <a href='https://www.google.com/recaptcha/admin/create'>https://www.google.com/recaptcha/admin/create</a>"
 
 msgid "Captcha verification failed."
-msgstr "Fall√≥ la verificaci√≥n del Captcha"
+msgstr "Fallo la verificacion del Captcha"
 
 msgid "Your Username is blacklisted in global database"
-msgstr "Tu nombre de usuario est√° en la lista negra de la base de datos mundial"
+msgstr "Tu nombre de usuario esta en la lista negra de la base de datos mundial"
 
 msgid "Your Email is blacklisted in global database"
-msgstr "Tu Email est√° en la lista negra de la base de datos global"
+msgstr "Tu Email esta en la lista negra de la base de datos global"
 
 msgid "Your IP is blacklisted in global database"
-msgstr "Tu IP est√° en la lista negra de la base de datos global"
+msgstr "Tu IP esta en la lista negra de la base de datos global"
 
 msgid "Ticket id required"
 msgstr "ID del ticket requerido"
@@ -2369,10 +2369,10 @@ msgid "Ticket support_helpdesk_id required"
 msgstr "Ticket support_helpdesk_id requerido"
 
 msgid "Helpdesk invalid"
-msgstr "Departamento inv√°lido"
+msgstr "Departamento invalido"
 
 msgid "We have already received this request."
-msgstr "Ya hemos recibido esta petici√≥n."
+msgstr "Ya hemos recibido esta peticion."
 
 msgid "Ticket ID required"
 msgstr "ID del ticket requerido"
@@ -2393,13 +2393,13 @@ msgid "Ticket message not found"
 msgstr "Mensaje del ticket no encontrado"
 
 msgid "Client name parameter is missing"
-msgstr "Manca el par√°metro nombre del cliente "
+msgstr "Manca el parametro nombre del cliente "
 
 msgid "Client email parameter is missing"
-msgstr "Manca el par√°metro email del cliente"
+msgstr "Manca el parametro email del cliente"
 
 msgid "Subject parameter is missing"
-msgstr "Manca el par√°metro oggetto"
+msgstr "Manca el parametro oggetto"
 
 msgid "Ticket message is missing"
 msgstr "Manca mensaje del ticket"
@@ -2411,7 +2411,7 @@ msgid "Help desk not found"
 msgstr "Servicio de asistencia no encontrado"
 
 msgid "Help desk title is missing"
-msgstr "Manca el t√≠tulo del servicio de asistencia"
+msgstr "Manca el titulo del servicio de asistencia"
 
 msgid "Canned reply id is missing"
 msgstr "Manca el id de la respuesta automatizada"
@@ -2420,19 +2420,19 @@ msgid "Canned reply not found"
 msgstr "Respuesta predefinida no encontrada"
 
 msgid "Canned reply title is missing"
-msgstr "Manca el t√≠tulo de la respuesta predefinida"
+msgstr "Manca el titulo de la respuesta predefinida"
 
 msgid "Canned reply category id is missing"
-msgstr "Manca el id de la categor√≠a de la respuesta predefinida"
+msgstr "Manca el id de la categoria de la respuesta predefinida"
 
 msgid "Canned category id is missing"
-msgstr "Manca el id de la categor√≠a de la respuesta predefinida"
+msgstr "Manca el id de la categoria de la respuesta predefinida"
 
 msgid "Canned category not found"
-msgstr "Categor√≠a predefinida no encontrada"
+msgstr "Categoria predefinida no encontrada"
 
 msgid "Canned category title is missing"
-msgstr "Manca el t√≠tulo de la categor√≠a predefinida"
+msgstr "Manca el titulo de la categoria predefinida"
 
 msgid "ticket_id is missing"
 msgstr "Manca ticket_id"
@@ -2459,10 +2459,10 @@ msgid "Please enter your message"
 msgstr "Por favor indica tu mensaje"
 
 msgid "Public ticket hash required"
-msgstr "Hash del ticket p√∫blico requerido"
+msgstr "Hash del ticket publico requerido"
 
 msgid "Public ticket not found"
-msgstr "Ticket p√∫blico no encontrado"
+msgstr "Ticket publico no encontrado"
 
 msgid "message required"
 msgstr "mensaje requerido"
@@ -2477,13 +2477,13 @@ msgid "Staff member not found"
 msgstr "Miembro del Staff no encontrado"
 
 msgid "Email param is missing"
-msgstr "Manca el par√°metro Email"
+msgstr "Manca el parametro Email"
 
 msgid "Password param is missing"
-msgstr "Manca el par√°metro Password"
+msgstr "Manca el parametro Password"
 
 msgid "Name param is missing"
-msgstr "Manca el par√°metro Nome"
+msgstr "Manca el parametro Nome"
 
 msgid "Staff group is missing"
 msgstr "Manca el grupo del Staff"
@@ -2495,7 +2495,7 @@ msgid "Administrator email is missing."
 msgstr "No se encuentra el email de Administrador."
 
 msgid "Administrator password is missing."
-msgstr "No se encuentra la contrase√±a de Administrador."
+msgstr "No se encuentra la contrasena de Administrador."
 
 msgid "Check your login details"
 msgstr "Comprueba tus datos de acceso"
@@ -2507,13 +2507,13 @@ msgid "BoxBilling license order not found"
 msgstr "No se encuentra el pedido de licencia de BoxBilling"
 
 msgid "Order is not activated"
-msgstr "El pedido no est√° activado"
+msgstr "El pedido no esta activado"
 
 msgid "You must agree with terms and conditions of partners program."
-msgstr "Debes estar de acuerdo con los t√©rminos y condiciones del programa de socios."
+msgstr "Debes estar de acuerdo con los terminos y condiciones del programa de socios."
 
 msgid "To become a partner you will have to deposit $:amount. This $:amount will be an Advance and will be set off against the licenses you Purchase / Renew. So when you pay this $:amount a Balance will be shown in your account."
-msgstr "Para convertirte en socio tendr√°s que depositar $:amount. Estos $:amount ser√°n un avance y se deducir√°n de las licencias que Compres/Renueves. As√≠ cuando pagues estos $:amount un saldo aparecer√° en su cuenta."
+msgstr "Para convertirte en socio tendras que depositar $:amount. Estos $:amount seran un avance y se deduciran de las licencias que Compres/Renueves. Asi cuando pagues estos $:amount un saldo aparecera en su cuenta."
 
 msgid "To become a partner it is required you to order :product"
 msgstr "Para ser socio se requiere que pidas :product"
@@ -2525,7 +2525,7 @@ msgid "Not enough money in balance to create order. You must have at least $:pri
 msgstr "No hay suficiente dinero en el saldo per Creare el pedido. Debes tener al menos $:price en tu saldo"
 
 msgid "Partners program is temporary disabled."
-msgstr "El programa de socios est√° temporalmente deshabilitado"
+msgstr "El programa de socios esta temporalmente deshabilitado"
 
 msgid "Partner not found"
 msgstr "Pagina non trocata!"
@@ -2534,22 +2534,22 @@ msgid "You have not signed up for partners program."
 msgstr "No te has inscrito en el programa de socios."
 
 msgid "Your partner account is currently not active."
-msgstr "Tu cuenta de socio no est√° activa actualmente."
+msgstr "Tu cuenta de socio no esta activa actualmente."
 
 msgid "Set your website url if you want to get listed on official partners page"
-msgstr "Pon la url de tu sitio web si quieres aparecer en el listado de la p√°gina oficial de socios"
+msgstr "Pon la url de tu sitio web si quieres aparecer en el listado de la pagina oficial de socios"
 
 msgid "Set your logo if you want to get listed on official partners page"
-msgstr "Pon tu logo si quieres aparecer en el listado de la p√°gina oficial de socios"
+msgstr "Pon tu logo si quieres aparecer en el listado de la pagina oficial de socios"
 
 msgid "You must have at least one active order to get listed on official partners page"
 msgstr "Devi aver effettato almeno un ordine per poter accedere alla nostra lista di Partners!"
 
 msgid "Order id not passed"
-msgstr "No se pas√≥ el ID del pedido"
+msgstr "No se paso el ID del pedido"
 
 msgid "Order is not valid"
-msgstr "La tua richiesta non √® ancora attiva!"
+msgstr "La tua richiesta non e' ancora attiva!"
 
 msgid "Order not found"
 msgstr "Ordine no encontrado"
@@ -2567,7 +2567,7 @@ msgid "Forum ID not passed"
 msgstr "No se ha pasado el ID del foro"
 
 msgid "Forum topic not passed"
-msgstr "No se pas√≥ el tema del foro"
+msgstr "No se paso el tema del foro"
 
 msgid "Forum message not passed"
 msgstr "No se ha pasado el mensaje del foro"
@@ -2591,13 +2591,13 @@ msgid "Forum id missing"
 msgstr "Manca el ID del foro"
 
 msgid "Forum title is missing"
-msgstr "Manca el t√≠tulo del foro"
+msgstr "Manca el titulo del foro"
 
 msgid "Topic id is missing"
 msgstr "Manca el ID del tema"
 
 msgid "Forum topic title not passed"
-msgstr "No se ha pasado el t√≠tulo del foro"
+msgstr "No se ha pasado el titulo del foro"
 
 msgid "Forum topic message not passed"
 msgstr "No se ha pasado el mensaje del tema del foro"
@@ -2615,10 +2615,10 @@ msgid "Forum Topic message not found"
 msgstr "Mensaje del tema del foro no encontrado"
 
 msgid "Enter some keywords for search"
-msgstr "Indica algunas palabras per la b√∫squeda"
+msgstr "Indica algunas palabras per la busqueda"
 
 msgid "Search keyword must be longer than 3 characters"
-msgstr "La palabra clave a buscar debe tener m√°s de 3 car√°cteres"
+msgstr "La palabra clave a buscar debe tener mas de 3 caracteres"
 
 msgid "File can not be downloaded at the moment. Please contact support"
 msgstr "El file no puede ser descargado en este momento. da favor contacta con soporte"
@@ -2630,7 +2630,7 @@ msgid "Error uploading file"
 msgstr "Error subiendo file"
 
 msgid "Product is not configured completely."
-msgstr "El producto no est√° configurado completamente."
+msgstr "El producto no esta configurado completamente."
 
 msgid "plan_id is missing"
 msgstr "Manca plan_id"
@@ -2660,16 +2660,16 @@ msgid "Hosting plan name is missing"
 msgstr "Manca el nombre del plan de alojamiento"
 
 msgid "Hoting plan name can not be empty"
-msgstr "El plan de alojamiento no puede estar vac√≠o"
+msgstr "El plan de alojamiento no puede estar vacio"
 
 msgid ":hosting for :domain"
 msgstr ":hosting per :domain"
 
 msgid "Notification id is missing"
-msgstr "Manca el id de notificaci√≥n"
+msgstr "Manca el id de notificacion"
 
 msgid "Notification message was not found"
-msgstr "Mensaje de notificaci√≥n no encontrado"
+msgstr "Mensaje de notificacion no encontrado"
 
 msgid "Unknown API call :call"
 msgstr "Llamada API :call desconocida"
@@ -2678,13 +2678,13 @@ msgid "Unauthorized IP"
 msgstr "IP No Autorizada"
 
 msgid "Request limit reached"
-msgstr "Alcanzado l√≠mite de solicitud"
+msgstr "Alcanzado limite de solicitud"
 
 msgid "Unknow API call"
 msgstr "Llamada API desconocida"
 
 msgid "Authentication Failed"
-msgstr "Fall√≥ Autenticaci√≥n"
+msgstr "Fallo Autenticacion"
 
 msgid "Client API can be initiated"
 msgstr "La API de cliente se puede iniciar"
@@ -2693,43 +2693,43 @@ msgid "Hook event not passed"
 msgstr "Evento Hook no pasado"
 
 msgid "Param mod not passed"
-msgstr "Par√°metro mod no pasado"
+msgstr "Parametro mod no pasado"
 
 msgid "Article id not passed"
-msgstr "El id del art√≠culo no pas√≥"
+msgstr "El id del articulo no paso"
 
 msgid "Article not found"
-msgstr "Art√≠culo no encontrado"
+msgstr "Articulo no encontrado"
 
 msgid "Article category id not passed"
-msgstr "El ID de la categor√≠a de art√≠culo no pas√≥"
+msgstr "El ID de la categoria de articulo no paso"
 
 msgid "Article title not passed"
-msgstr "El t√≠tulo de art√≠culo no pas√≥"
+msgstr "El titulo de articulo no paso"
 
 msgid "Article id is missing"
-msgstr "Manca el ID del art√≠culo"
+msgstr "Manca el ID del articulo"
 
 msgid "Caegory id not passed"
-msgstr "El ID de categor√≠a no pas√≥"
+msgstr "El ID de categoria no paso"
 
 msgid "Article Category not found"
-msgstr "Categor√≠a de art√≠culo no encontrada"
+msgstr "Categoria de articulo no encontrada"
 
 msgid "Category title not passed"
-msgstr "El t√≠tulo de categor√≠a no pas√≥"
+msgstr "El titulo de categoria no paso"
 
 msgid "Article item not found"
-msgstr "√çtem del art√≠culo no encontrado"
+msgstr "Item del articulo no encontrado"
 
 msgid "Category ID or slug is missing"
-msgstr "Manca el ID de Categor√≠a o Slug"
+msgstr "Manca el ID de Categoria o Slug"
 
 msgid "Knowledge base category not found"
-msgstr "Categor√≠a del Centro de Ayuda no encontrada"
+msgstr "Categoria del Centro de Ayuda no encontrada"
 
 msgid "Invoice hash not passed"
-msgstr "No se pas√≥ el hash de la factura"
+msgstr "No se paso el hash de la factura"
 
 msgid "Invoice was not found"
 msgstr "No se ha encontrado la factura"
@@ -2741,61 +2741,61 @@ msgid "Order :id is free. No need to generate invoice."
 msgstr "El pedido :id es gratis. No es necesario generar factura."
 
 msgid "Invoice is related to order #:id. Please cancel order first."
-msgstr "La fattura è relazionata con l'ordine #:id. Elimina prima l'ordine!"
+msgstr "La fattura e' relazionata con l'ordine #:id. Elimina prima l'ordine!"
 
 msgid "Invoice id not passed"
-msgstr "No se pas√≥ el ID de la factura"
+msgstr "No se paso el ID de la factura"
 
 msgid "Invoice item id not passed"
-msgstr "No se pas√≥ el ID del √≠tem de la factura"
+msgstr "No se paso el ID del item de la factura"
 
 msgid "Invoice item was not found"
 msgstr "Item de la Factura no encontrado"
 
 msgid "Transaction id is missing"
-msgstr "Manca el ID de la transacci√≥n"
+msgstr "Manca el ID de la transaccion"
 
 msgid "Transaction not found"
-msgstr "Transacci√≥n no encontrada"
+msgstr "Transaccion no encontrada"
 
 msgid "Transaction invoice id is missing"
-msgstr "Manca el ID de transacci√≥n de la factura"
+msgstr "Manca el ID de transaccion de la factura"
 
 msgid "Payment gateway id is missing"
 msgstr "Manca la pasarela de pago"
 
 msgid "Gateway was not found"
-msgstr "No se encontr√≥ la Pasarela"
+msgstr "No se encontro la Pasarela"
 
 msgid "Payment gateway code is missing"
 msgstr "Manca el codice de la pasarela de pago"
 
 msgid "Payment gateway is not available for installation."
-msgstr "Pasarela de pago no disponible per instalaci√≥n."
+msgstr "Pasarela de pago no disponible per instalacion."
 
 msgid "Gateway id not passed"
-msgstr "El ID de la pasarela no pas√≥"
+msgstr "El ID de la pasarela no paso"
 
 msgid "Gateway not found"
 msgstr "Pasarela no encontrada"
 
 msgid "Payment gateway id not passed"
-msgstr "El ID de la pasarela de pago no pas√≥"
+msgstr "El ID de la pasarela de pago no paso"
 
 msgid "Subscription currency not passed"
-msgstr "La moneda de suscripci√≥n no pas√≥"
+msgstr "La moneda de suscripcion no paso"
 
 msgid "Payment gateway not found"
 msgstr "Pasarela de pago no encontrada"
 
 msgid "Client currency must match subscription currency. Check if clients currency is defined."
-msgstr "La moneda del cliente debe coincidir con la moneda de suscripci√≥n. Comprueba si la moneda de los clientes est√° definida."
+msgstr "La moneda del cliente debe coincidir con la moneda de suscripcion. Comprueba si la moneda de los clientes esta definida."
 
 msgid "Subscription id not passed"
-msgstr "El ID de suscripci√≥n no pas√≥"
+msgstr "El ID de suscripcion no paso"
 
 msgid "Subscription not found"
-msgstr "Suscripci√≥n no encontrada"
+msgstr "Suscripcion no encontrada"
 
 msgid "Tax id is missing"
 msgstr "Manca el ID del impuesto"
@@ -2807,19 +2807,19 @@ msgid "Tax name is missing"
 msgstr "Manca el Nome del impuesto"
 
 msgid "Tax rate is missing or is not valid"
-msgstr "La Tasa de Impuestos no se encuentra o no es v√°lida"
+msgstr "La Tasa de Impuestos no se encuentra o no es valida"
 
 msgid "Invoice hash not passed. Missing param hash"
-msgstr "El Hash de la Factura no pas√≥. Manca par√°metro de hash"
+msgstr "El Hash de la Factura no paso. Manca parametro de hash"
 
 msgid "Payment method not found. Missing param gateway_id"
-msgstr "M√©todo de Pago no encontrado. Manca par√°metro gateway_id"
+msgstr "Metodo de Pago no encontrado. Manca parametro gateway_id"
 
 msgid "Invoice not found"
 msgstr "No se encuentra la factura"
 
 msgid "Payment method not found"
-msgstr "M√©todo de pago no encontrado"
+msgstr "Metodo de pago no encontrado"
 
 msgid "This invoice can't be subscribed"
 msgstr "Esta factura no puede ser suscrita"
@@ -2840,13 +2840,13 @@ msgid "Currency already registered"
 msgstr "Moneda ya registrada"
 
 msgid "Currency code is not valid"
-msgstr "Codice de Moneda no v√°lido"
+msgstr "Codice de Moneda no valido"
 
 msgid "Currency rate is not valid"
-msgstr "Tipo de Moneda no v√°lido"
+msgstr "Tipo de Moneda no valido"
 
 msgid "You have already used this promo code. Please remove promo code and checkout again."
-msgstr "Ya has utilizado este codice de promoci√≥n. da favor, elimina el codice de promoci√≥n y obten uno nuevo."
+msgstr "Ya has utilizado este codice de promocion. da favor, elimina el codice de promocion y obten uno nuevo."
 
 msgid "Shopping cart id is missing"
 msgstr "Manca el id del carrito"
@@ -2855,34 +2855,34 @@ msgid "Shopping cart not found"
 msgstr "No se encuentra el carrito"
 
 msgid "Currency code not passed"
-msgstr "El codice de moneda no pas√≥"
+msgstr "El codice de moneda no paso"
 
 msgid "Promo code not passed"
-msgstr "El codice de promoci√≥n no pas√≥"
+msgstr "El codice de promocion no paso"
 
 msgid "Promo code is expired or does not exist"
-msgstr "El codice de promoci√≥n ha caducado o no existe"
+msgstr "El codice de promocion ha caducado o no existe"
 
 msgid "Cart item id not passed"
-msgstr "El id del √≠tem de la cesta no pas√≥"
+msgstr "El id del item de la cesta no paso"
 
 msgid "Solusvm order not found"
 msgstr "Ordine de SolusVM no encontrado"
 
 msgid "Node is not selected for import."
-msgstr "No hay seleccionado ning√∫n nodo per la importaci√≥n."
+msgstr "No hay seleccionado ningun nodo per la importacion."
 
 msgid "No servers selected for import."
-msgstr "No hay servers seleccionados per la importaci√≥n."
+msgstr "No hay servers seleccionados per la importacion."
 
 msgid "Select product for orders."
 msgstr "Elegir producto"
 
 msgid "Product is not configured completely. Please provide solusvm node in product configuration page."
-msgstr "El producto no se ha configurado completamente. da favor proporciona un nodo de SolusVM en la p√°gina de configuraci√≥n del producto."
+msgstr "El producto no se ha configurado completamente. da favor proporciona un nodo de SolusVM en la pagina de configuracion del producto."
 
 msgid "Product is not configured completely. Please provide solusvm plan in product configuration page."
-msgstr "El producto no se ha configurado completamente. da favor proporcione un plan de SolusVM en la p√°gina de configuraci√≥n del producto."
+msgstr "El producto no se ha configurado completamente. da favor proporcione un plan de SolusVM en la pagina de configuracion del producto."
 
 msgid "No clients selected for import."
 msgstr "No hay clientes seleccionados per importar."
@@ -2897,7 +2897,7 @@ msgid "Please enter VPS hostname."
 msgstr "Por favor introduzca el nombre del host per el VPS."
 
 msgid "Hostname :hostname is not valid."
-msgstr "El nombre del host :hostname no es v√°lido."
+msgstr "El nombre del host :hostname no es valido."
 
 msgid "Please select VPS template."
 msgstr "Por favor selecciona la plantilla VPS."
@@ -2921,40 +2921,40 @@ msgid "Could not activate order because ordered product does not exists"
 msgstr "No se ha podido activar el pedido porque el producto solicitado no existe"
 
 msgid "Could not activate order. Product :id configuration is missing node parameter"
-msgstr "No se ha podido activar el pedido. Manca el par√°metro nodo en la configuraci√≥n del producto :id"
+msgstr "No se ha podido activar el pedido. Manca el parametro nodo en la configuracion del producto :id"
 
 msgid "Could not activate order. Product :id configuration is missing plan parameter"
-msgstr "No se ha podido activar el pedido. Manca el par√°metro plan en la configuraci√≥n del producto :id"
+msgstr "No se ha podido activar el pedido. Manca el parametro plan en la configuracion del producto :id"
 
 msgid "Could not activate order. Product :id configuration is missing virtualization type parameter"
-msgstr "No se pudo activar el pedido. Mancan par√°metros del tipo virtualizaci√≥n en la configuraci√≥n del pedido :id "
+msgstr "No se pudo activar el pedido. Mancan parametros del tipo virtualizacion en la configuracion del pedido :id "
 
 msgid "Could not activate order. Product :id configuration is missing ips amount parameter"
-msgstr "No se ha podido activar el pedido. Manca el par√°metro cantidad de ips en la configuraci√≥n del producto :id"
+msgstr "No se ha podido activar el pedido. Manca el parametro cantidad de ips en la configuracion del producto :id"
 
 msgid "Root password must be longer than 4 symbols"
-msgstr "La contrase√±a root debe tener m√°s de 4 s√≠mbolos"
+msgstr "La contrasena root debe tener mas de 4 simbolos"
 
 msgid "Plan name must not be empty"
-msgstr "El nombre del plan no puede estar vac√≠o"
+msgstr "El nombre del plan no puede estar vacio"
 
 msgid "Hostname must not be empty"
-msgstr "El nombre del host no puede estar vac√≠o"
+msgstr "El nombre del host no puede estar vacio"
 
 msgid "Template must not be empty"
-msgstr "La plantilla no puede estar vac√≠a"
+msgstr "La plantilla no puede estar vacia"
 
 msgid "Password must be longer than 4 symbols"
-msgstr "La contrase√±a debe tener m√°s de 4 s√≠mbolos"
+msgstr "La contrasena debe tener mas de 4 simbolos"
 
 msgid "GPS tracker order not found"
 msgstr "Server non trovato!"
 
 msgid "Could not suspend order. Service was not created"
-msgstr "Non si pu√≤ attivare l'ordine. Ordine non creato correttamente!"
+msgstr "Non si puo' attivare l'ordine. Ordine non creato correttamente!"
 
 msgid "Could not unsuspend order. Service was not created"
-msgstr "Non si pu√≤ disattivare l'ordine. Ordine non creato correttamente!"
+msgstr "Non si puo' disattivare l'ordine. Ordine non creato correttamente!"
 
 msgid "TLD is missing"
 msgstr "Manca el TLD"
@@ -2969,19 +2969,19 @@ msgid "Registration price is missing"
 msgstr "Manca el precio de registro"
 
 msgid "Renewal price is missing"
-msgstr "Manca el precio de renovaci√≥n"
+msgstr "Manca el precio de renovacion"
 
 msgid "Transfer price is missing"
 msgstr "Manca el precio de transferencia"
 
 msgid "Registrar code not passed"
-msgstr "No se pas√≥ el codice de registrator"
+msgstr "No se paso el codice de registrator"
 
 msgid "Registrar is not available for installation."
-msgstr "registrator no disponible per instalaci√≥n."
+msgstr "registrator no disponible per instalacion."
 
 msgid "Registrar id not passed"
-msgstr "No se pas√≥ el ID de registrator"
+msgstr "No se paso el ID de registrator"
 
 msgid "Registrar not found"
 msgstr "registrator no encontrado"
@@ -2999,16 +2999,16 @@ msgid "Sld is required"
 msgstr "SLD requerido"
 
 msgid "Domain :domain is not valid"
-msgstr "El dominio :domain no es v√°lido"
+msgstr "El dominio :domain no es valido"
 
 msgid "Domain availability could not be determined. TLD is not active."
-msgstr "La disponibilidad del dominio no puede ser determinada. TLD no est√° activo."
+msgstr "La disponibilidad del dominio no puede ser determinada. TLD no esta activo."
 
 msgid "Domain is not available."
 msgstr "Dominio no disponible."
 
 msgid "TLD is not active."
-msgstr "TLD no est√° activo."
+msgstr "TLD no esta activo."
 
 msgid "Domain can not be transferred."
 msgstr "El dominio no puede ser transferido."
@@ -3020,37 +3020,37 @@ msgid "Domain :domain transfer"
 msgstr "Transferencia de dominio :domain"
 
 msgid "Notification center extension is off. Skipping check"
-msgstr "Il centro di notifica non è attivo. Riprova in un altro momento!"
+msgstr "Il centro di notifica non e' attivo. Riprova in un altro momento!"
 
 msgid "Check was already executed once in a 2 days."
 msgstr "Comprovare che sia stato eseguito negli ultimi 2 giorni"
 
 msgid "Only pending setup orders can be deleted."
-msgstr "S√≥lo pedidos pendientes de configurar pueden ser borrados."
+msgstr "Solo pedidos pendientes de configurar pueden ser borrados."
 
 msgid "This feature is available in BoxBilling PRO version."
-msgstr "Esta caracter√≠stica est√° disponible en la versi√≥n PRO de BoxBilling."
+msgstr "Esta caracteristica esta disponible en la version PRO de BoxBilling."
 
 msgid "Currency :code not found"
 msgstr "Moneda :code no encontrada"
 
 msgid "Product :id is out of stock."
-msgstr "El Producto :id est√° fuera de stock."
+msgstr "El Producto :id esta fuera de stock."
 
 msgid "Group ID parameter is missing for addon product order"
-msgstr "Manca el par√°metro ID de Grupo per el addon del pedido de productos"
+msgstr "Manca el parametro ID de Grupo per el addon del pedido de productos"
 
 msgid "Parent order :group_id was not found"
 msgstr "No se ha encontrado el pedido padre :group_id"
 
 msgid "Only pending setup or failed orders can be activated"
-msgstr "S√≥lo pedidos pendientes de configurar o fallados pueden ser activados"
+msgstr "Solo pedidos pendientes de configurar o fallados pueden ser activados"
 
 msgid "Only suspended orders can be unsuspended"
-msgstr "S√≥lo pedidos suspendidos pueden ser cambiados a sin suspensi√≥n"
+msgstr "Solo pedidos suspendidos pueden ser cambiados a sin suspension"
 
 msgid "Only canceled orders can be uncanceled"
-msgstr "S√≥lo pedidos cancelados pueden ser cambiados a sin cancelar"
+msgstr "Solo pedidos cancelados pueden ser cambiados a sin cancelar"
 
 msgid "Order config not passed"
 msgstr "Configurazione ordine non eseguita!"
@@ -3074,7 +3074,7 @@ msgstr "Emettere fattura manualmente"
 #~ msgstr "Pagada"
 
 #~ msgid "Billing Software"
-#~ msgstr "Software de Facturaci√≥n"
+#~ msgstr "Software de Facturacion"
 
 #~ msgid "Order has no active service"
 #~ msgstr "El pedido no tiene el servicio activo"
@@ -3083,14 +3083,14 @@ msgstr "Emettere fattura manualmente"
 #~ "Order group id parameter is missing for addon product order. Add group_id "
 #~ "field to config array to specify order."
 #~ msgstr ""
-#~ "Manca el par√°metro ID del grupo de pedido de addons de productos. A√±adir "
-#~ "campo group_id a la matriz de configuraci√≥n per especificar el pedido."
+#~ "Manca el parametro ID del grupo de pedido de addons de productos. Anadir "
+#~ "campo group_id a la matriz de configuracion per especificar el pedido."
 
 #~ msgid "Parent orde"
 #~ msgstr "Ordine padre"
 
 #~ msgid "Refund amount in not valid"
-#~ msgstr "El importe de devoluci√≥n no es v√°lido"
+#~ msgstr "El importe de devolucion no es valido"
 
 #~ msgid "Refund amount can not be greater than total invoice amount"
 #~ msgstr ""
@@ -3110,16 +3110,16 @@ msgstr "Emettere fattura manualmente"
 #~ msgstr "Factura Proforma"
 
 #~ msgid "Subscriptio"
-#~ msgstr "Suscripci√≥n"
+#~ msgstr "Suscripcion"
 
 #~ msgid "Unknown service :service"
 #~ msgstr "Servicio :service desconocido"
 
 #~ msgid "Could not domain action"
-#~ msgstr "No se pudo la acci√≥n de dominio"
+#~ msgstr "No se pudo la accion de dominio"
 
 #~ msgid "Invoice item price is missing"
-#~ msgstr "Manca el precio del √≠tem de la factura"
+#~ msgstr "Manca el precio del item de la factura"
 
 #~ msgid "Required field "
 #~ msgstr "Campo Requerido"
@@ -3127,17 +3127,17 @@ msgstr "Emettere fattura manualmente"
 #~ msgid ""
 #~ "Throw exception to terminate module installation process with a message"
 #~ msgstr ""
-#~ "Lanza una excepci√≥n per terminar el proceso de instalaci√≥n del modulo "
+#~ "Lanza una excepcion per terminar el proceso de instalacion del modulo "
 #~ "con un mensaje"
 
 #~ msgid ""
 #~ "Throw exception to terminate module uninstallation process with a message"
 #~ msgstr ""
-#~ "Lanza una excepci√≥n per terminar el proceso de desinstalaci√≥n del modulo "
+#~ "Lanza una excepcion per terminar el proceso de desinstalacion del modulo "
 #~ "con un mensaje"
 
 #~ msgid "Password must include at least one CAPS!"
-#~ msgstr "¬°La contrase√±a debe incluir al menos una MAY√öSCULA!"
+#~ msgstr "¬°La contrasena debe incluir al menos una MAYUSCULA!"
 
 #~ msgid "Currency can not be changed. Client have money in balance."
 #~ msgstr ""
@@ -3175,7 +3175,7 @@ msgstr "Emettere fattura manualmente"
 #~ msgstr "Descuento:"
 
 #~ msgid "Number test"
-#~ msgstr "N√∫mero de prueba"
+#~ msgstr "Numero de prueba"
 
 #~ msgid "Change your avatar at"
 #~ msgstr "Cambie su avatar en"
@@ -3190,11 +3190,11 @@ msgstr "Emettere fattura manualmente"
 #~ "This function resets your account completely. All data on your account "
 #~ "will be lost."
 #~ msgstr ""
-#~ "Esta funci√≥n le permite restaurar su cuenta da completo. Todos los datos "
-#~ "de su cuenta se perder√°n."
+#~ "Esta funcion le permite restaurar su cuenta da completo. Todos los datos "
+#~ "de su cuenta se perderan."
 
 #~ msgid "I understand that my account data will be completely lost."
-#~ msgstr "Entiendo que los datos de mi cuenta se perder√°n da completo."
+#~ msgstr "Entiendo que los datos de mi cuenta se perderan da completo."
 
 #~ msgid "en_US"
 #~ msgstr "Inglese"
